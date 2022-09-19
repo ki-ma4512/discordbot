@@ -1,0 +1,9 @@
+{
+    "help":{"name":"help","aliases":["h","?"],"usage":"コマンド一覧,コマンドの使い方を見れる"},
+    "join":{"name":"join","aliases":["connect","参加","j"],"usage":"Botをボイスチャンネルに参加させられる"},
+    "stop":{"name":"stop","aliases":["disconnect","dc","leave","離脱","s"],"usage":"音楽の再生をやめてBotをボイスチャンネルから離脱させられる"},
+    "play":{"name":"play","aliases":["p","プレイ","音楽","再生","曲"],"usage":"BotでYoutubeの音楽をならせる"},
+    "pause":{"name":"pause","aliases":["一時停止"],"usage":"音楽を一時停止できる"},
+    "resume":{"name":"resume","aliases":["再開"],"usage":"一時停止した音楽を再開できる"},
+    "want": {"name": "want", "aliases" :["w","あつ森","vote","v"],"usage":"あつ森の家具の助けを呼べる"}
+  }
