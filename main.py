@@ -9,17 +9,17 @@ import asyncio
 
 #ファイルの読み込み
 #botのconfigを読み込み
-with open("C:\\Users\\User\\My.python\\Discord.bot\\jsonFile\\config.json","r",encoding="utf-8_sig") as f:
+with open("config.json","r",encoding="utf-8_sig") as f:
 	config = json.load(f)
 #botのコマンド部分を読み込み
-with open("C:\\Users\\User\\My.python\\Discord.bot\\jsonFile\\mycommands.json","r",encoding="utf-8_sig") as f:
+with open("mycommands.json","r",encoding="utf-8_sig") as f:
   mycommands = json.load(f)
 #あつ森家具listを読み込み
 #家具名前
-with open("C:\\Users\\User\\My.python\\Discord.bot\\jsonFile\\item.name.list.json","r",encoding="utf-8_sig") as f:
+with open("item.name.list.json","r",encoding="utf-8_sig") as f:
   furniture_name_list = json.load(f)
 #家具画像URLを読み込み
-with open("C:\\Users\\User\\My.python\\Discord.bot\\jsonFile\\item.url.list.json","r",encoding="utf-8_sig") as f:
+with open("item.url.list.json","r",encoding="utf-8_sig") as f:
   furniture_url_list = json.load(f)
 
 
