@@ -1,0 +1,7418 @@
+{
+    "ニャオハ": {
+        "number": "No.001",
+        "name": "ニャオハ",
+        "type": {
+            "type1": 5,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/237.png",
+        "status": {
+            "HP": "40",
+            "攻撃": "61",
+            "防御": "54",
+            "特攻": "45",
+            "特防": "45",
+            "素早": "65",
+            "合計": "310"
+        }
+    },
+    "ニャローテ": {
+        "number": "No.002",
+        "name": "ニャローテ",
+        "type": {
+            "type1": 5,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/238.png",
+        "status": {
+            "HP": "61",
+            "攻撃": "80",
+            "防御": "63",
+            "特攻": "60",
+            "特防": "63",
+            "素早": "83",
+            "合計": "410"
+        }
+    },
+    "マスカーニャ": {
+        "number": "No.003",
+        "name": "マスカーニャ",
+        "type": {
+            "type1": 5,
+            "type2": 16
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/239.png",
+        "status": {
+            "HP": "76",
+            "攻撃": "110",
+            "防御": "70",
+            "特攻": "81",
+            "特防": "70",
+            "素早": "123",
+            "合計": "530"
+        }
+    },
+    "ホゲータ": {
+        "number": "No.004",
+        "name": "ホゲータ",
+        "type": {
+            "type1": 2,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/240.png",
+        "status": {
+            "HP": "67",
+            "攻撃": "45",
+            "防御": "59",
+            "特攻": "63",
+            "特防": "40",
+            "素早": "36",
+            "合計": "310"
+        }
+    },
+    "アチゲータ": {
+        "number": "No.005",
+        "name": "アチゲータ",
+        "type": {
+            "type1": 2,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/241.png",
+        "status": {
+            "HP": "81",
+            "攻撃": "55",
+            "防御": "78",
+            "特攻": "90",
+            "特防": "68",
+            "素早": "49",
+            "合計": "421"
+        }
+    },
+    "ラウドボーン": {
+        "number": "No.006",
+        "name": "ラウドボーン",
+        "type": {
+            "type1": 2,
+            "type2": 14
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/242.png",
+        "status": {
+            "HP": "104",
+            "攻撃": "75",
+            "防御": "100",
+            "特攻": "110",
+            "特防": "75",
+            "素早": "66",
+            "合計": "530"
+        }
+    },
+    "クワッス": {
+        "number": "No.007",
+        "name": "クワッス",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/243.png",
+        "status": {
+            "HP": "55",
+            "攻撃": "65",
+            "防御": "45",
+            "特攻": "50",
+            "特防": "45",
+            "素早": "50",
+            "合計": "310"
+        }
+    },
+    "ウェルカモ": {
+        "number": "No.008",
+        "name": "ウェルカモ",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/244.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "85",
+            "防御": "65",
+            "特攻": "65",
+            "特防": "60",
+            "素早": "65",
+            "合計": "410"
+        }
+    },
+    "ウェーニバル": {
+        "number": "No.009",
+        "name": "ウェーニバル",
+        "type": {
+            "type1": 3,
+            "type2": 7
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/245.png",
+        "status": {
+            "HP": "85",
+            "攻撃": "120",
+            "防御": "80",
+            "特攻": "85",
+            "特防": "75",
+            "素早": "85",
+            "合計": "530"
+        }
+    },
+    "グルトン": {
+        "number": "No.010",
+        "name": "グルトン",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/246.png",
+        "status": {
+            "HP": "54",
+            "攻撃": "45",
+            "防御": "40",
+            "特攻": "35",
+            "特防": "45",
+            "素早": "35",
+            "合計": "254"
+        }
+    },
+    "パフュートン": {
+        "number": "No.011",
+        "name": "パフュートン",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/247.png",
+        "status": {
+            "HP": "110",
+            "攻撃": "100",
+            "防御": "75",
+            "特攻": "56",
+            "特防": "80",
+            "素早": "65",
+            "合計": "486"
+        }
+    },
+    "タマンチュラ": {
+        "number": "No.012",
+        "name": "タマンチュラ",
+        "type": {
+            "type1": 12,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/248.png",
+        "status": {
+            "HP": "35",
+            "攻撃": "41",
+            "防御": "45",
+            "特攻": "29",
+            "特防": "40",
+            "素早": "20",
+            "合計": "210"
+        }
+    },
+    "ワナイダー": {
+        "number": "No.013",
+        "name": "ワナイダー",
+        "type": {
+            "type1": 12,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/249.png",
+        "status": {
+            "HP": "65",
+            "攻撃": "79",
+            "防御": "92",
+            "特攻": "52",
+            "特防": "86",
+            "素早": "35",
+            "合計": "409"
+        }
+    },
+    "マメバッタ": {
+        "number": "No.014",
+        "name": "マメバッタ",
+        "type": {
+            "type1": 12,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/250.png",
+        "status": {
+            "HP": "33",
+            "攻撃": "46",
+            "防御": "40",
+            "特攻": "21",
+            "特防": "25",
+            "素早": "45",
+            "合計": "210"
+        }
+    },
+    "エクスレッグ": {
+        "number": "No.015",
+        "name": "エクスレッグ",
+        "type": {
+            "type1": 12,
+            "type2": 16
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/251.png",
+        "status": {
+            "HP": "71",
+            "攻撃": "102",
+            "防御": "78",
+            "特攻": "52",
+            "特防": "55",
+            "素早": "92",
+            "合計": "450"
+        }
+    },
+    "ハネッコ": {
+        "number": "No.016",
+        "name": "ハネッコ",
+        "type": {
+            "type1": 5,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/148.png",
+        "status": {
+            "HP": "35",
+            "攻撃": "35",
+            "防御": "40",
+            "特攻": "35",
+            "特防": "55",
+            "素早": "50",
+            "合計": "250"
+        }
+    },
+    "ポポッコ": {
+        "number": "No.017",
+        "name": "ポポッコ",
+        "type": {
+            "type1": 5,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/149.png",
+        "status": {
+            "HP": "55",
+            "攻撃": "45",
+            "防御": "50",
+            "特攻": "45",
+            "特防": "65",
+            "素早": "80",
+            "合計": "340"
+        }
+    },
+    "ワタッコ": {
+        "number": "No.018",
+        "name": "ワタッコ",
+        "type": {
+            "type1": 5,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/150.png",
+        "status": {
+            "HP": "75",
+            "攻撃": "55",
+            "防御": "70",
+            "特攻": "55",
+            "特防": "95",
+            "素早": "110",
+            "合計": "460"
+        }
+    },
+    "ヤヤコマ": {
+        "number": "No.019",
+        "name": "ヤヤコマ",
+        "type": {
+            "type1": 1,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/199.png",
+        "status": {
+            "HP": "45",
+            "攻撃": "50",
+            "防御": "43",
+            "特攻": "40",
+            "特防": "38",
+            "素早": "62",
+            "合計": "278"
+        }
+    },
+    "ヒノヤコマ": {
+        "number": "No.020",
+        "name": "ヒノヤコマ",
+        "type": {
+            "type1": 2,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/200.png",
+        "status": {
+            "HP": "62",
+            "攻撃": "73",
+            "防御": "55",
+            "特攻": "56",
+            "特防": "52",
+            "素早": "84",
+            "合計": "382"
+        }
+    },
+    "ファイアロー": {
+        "number": "No.021",
+        "name": "ファイアロー",
+        "type": {
+            "type1": 2,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/133.png",
+        "status": {
+            "HP": "78",
+            "攻撃": "81",
+            "防御": "71",
+            "特攻": "74",
+            "特防": "69",
+            "素早": "126",
+            "合計": "499"
+        }
+    },
+    "パモ": {
+        "number": "No.022",
+        "name": "パモ",
+        "type": {
+            "type1": 4,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/252.png",
+        "status": {
+            "HP": "45",
+            "攻撃": "50",
+            "防御": "20",
+            "特攻": "40",
+            "特防": "25",
+            "素早": "60",
+            "合計": "240"
+        }
+    },
+    "パモット": {
+        "number": "No.023",
+        "name": "パモット",
+        "type": {
+            "type1": 4,
+            "type2": 7
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/253.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "75",
+            "防御": "40",
+            "特攻": "50",
+            "特防": "40",
+            "素早": "85",
+            "合計": "350"
+        }
+    },
+    "パーモット": {
+        "number": "No.024",
+        "name": "パーモット",
+        "type": {
+            "type1": 4,
+            "type2": 7
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/254.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "115",
+            "防御": "70",
+            "特攻": "70",
+            "特防": "60",
+            "素早": "105",
+            "合計": "490"
+        }
+    },
+    "デルビル": {
+        "number": "No.025",
+        "name": "デルビル",
+        "type": {
+            "type1": 16,
+            "type2": 2
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/160.png",
+        "status": {
+            "HP": "45",
+            "攻撃": "60",
+            "防御": "30",
+            "特攻": "80",
+            "特防": "50",
+            "素早": "65",
+            "合計": "330"
+        }
+    },
+    "ヘルガー": {
+        "number": "No.026",
+        "name": "ヘルガー",
+        "type": {
+            "type1": 16,
+            "type2": 2
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/161.png",
+        "status": {
+            "HP": "75",
+            "攻撃": "90",
+            "防御": "50",
+            "特攻": "110",
+            "特防": "80",
+            "素早": "95",
+            "合計": "500"
+        }
+    },
+    "ヤングース": {
+        "number": "No.027",
+        "name": "ヤングース",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/255.png",
+        "status": {
+            "HP": "48",
+            "攻撃": "70",
+            "防御": "30",
+            "特攻": "30",
+            "特防": "30",
+            "素早": "45",
+            "合計": "253"
+        }
+    },
+    "デカグース": {
+        "number": "No.028",
+        "name": "デカグース",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/256.png",
+        "status": {
+            "HP": "88",
+            "攻撃": "110",
+            "防御": "60",
+            "特攻": "55",
+            "特防": "60",
+            "素早": "45",
+            "合計": "418"
+        }
+    },
+    "ホシガリス": {
+        "number": "No.029",
+        "name": "ホシガリス",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/4.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "55",
+            "防御": "55",
+            "特攻": "35",
+            "特防": "35",
+            "素早": "25",
+            "合計": "275"
+        }
+    },
+    "ヨクバリス": {
+        "number": "No.030",
+        "name": "ヨクバリス",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/5.png",
+        "status": {
+            "HP": "120",
+            "攻撃": "95",
+            "防御": "95",
+            "特攻": "55",
+            "特防": "75",
+            "素早": "20",
+            "合計": "460"
+        }
+    },
+    "ヒマナッツ": {
+        "number": "No.031",
+        "name": "ヒマナッツ",
+        "type": {
+            "type1": 5,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/151.png",
+        "status": {
+            "HP": "30",
+            "攻撃": "30",
+            "防御": "30",
+            "特攻": "30",
+            "特防": "30",
+            "素早": "30",
+            "合計": "180"
+        }
+    },
+    "キマワリ": {
+        "number": "No.032",
+        "name": "キマワリ",
+        "type": {
+            "type1": 5,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/152.png",
+        "status": {
+            "HP": "75",
+            "攻撃": "75",
+            "防御": "55",
+            "特攻": "105",
+            "特防": "85",
+            "素早": "30",
+            "合計": "425"
+        }
+    },
+    "コロボーシ": {
+        "number": "No.033",
+        "name": "コロボーシ",
+        "type": {
+            "type1": 12,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/257.png",
+        "status": {
+            "HP": "37",
+            "攻撃": "25",
+            "防御": "41",
+            "特攻": "25",
+            "特防": "41",
+            "素早": "25",
+            "合計": "194"
+        }
+    },
+    "コロトック": {
+        "number": "No.034",
+        "name": "コロトック",
+        "type": {
+            "type1": 12,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/258.png",
+        "status": {
+            "HP": "77",
+            "攻撃": "85",
+            "防御": "51",
+            "特攻": "55",
+            "特防": "51",
+            "素早": "65",
+            "合計": "384"
+        }
+    },
+    "コフキムシ": {
+        "number": "No.035",
+        "name": "コフキムシ",
+        "type": {
+            "type1": 12,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/201.png",
+        "status": {
+            "HP": "38",
+            "攻撃": "35",
+            "防御": "40",
+            "特攻": "27",
+            "特防": "25",
+            "素早": "35",
+            "合計": "200"
+        }
+    },
+    "コフーライ": {
+        "number": "No.036",
+        "name": "コフーライ",
+        "type": {
+            "type1": 12,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/202.png",
+        "status": {
+            "HP": "45",
+            "攻撃": "22",
+            "防御": "60",
+            "特攻": "27",
+            "特防": "30",
+            "素早": "29",
+            "合計": "213"
+        }
+    },
+    "ビビヨン": {
+        "number": "No.037",
+        "name": "ビビヨン",
+        "type": {
+            "type1": 12,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/203.png",
+        "status": {
+            "HP": "80",
+            "攻撃": "52",
+            "防御": "50",
+            "特攻": "90",
+            "特防": "50",
+            "素早": "89",
+            "合計": "411"
+        }
+    },
+    "ミツハニー": {
+        "number": "No.038",
+        "name": "ミツハニー",
+        "type": {
+            "type1": 10,
+            "type2": 12
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/27.png",
+        "status": {
+            "HP": "30",
+            "攻撃": "30",
+            "防御": "42",
+            "特攻": "30",
+            "特防": "42",
+            "素早": "70",
+            "合計": "244"
+        }
+    },
+    "ビークイン": {
+        "number": "No.039",
+        "name": "ビークイン",
+        "type": {
+            "type1": 10,
+            "type2": 12
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/28.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "80",
+            "防御": "102",
+            "特攻": "80",
+            "特防": "102",
+            "素早": "40",
+            "合計": "474"
+        }
+    },
+    "ココガラ": {
+        "number": "No.040",
+        "name": "ココガラ",
+        "type": {
+            "type1": 10,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/1.png",
+        "status": {
+            "HP": "38",
+            "攻撃": "47",
+            "防御": "35",
+            "特攻": "33",
+            "特防": "35",
+            "素早": "57",
+            "合計": "245"
+        }
+    },
+    "アオガラス": {
+        "number": "No.041",
+        "name": "アオガラス",
+        "type": {
+            "type1": 10,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/2.png",
+        "status": {
+            "HP": "68",
+            "攻撃": "67",
+            "防御": "55",
+            "特攻": "43",
+            "特防": "55",
+            "素早": "77",
+            "合計": "365"
+        }
+    },
+    "アーマーガア": {
+        "number": "No.042",
+        "name": "アーマーガア",
+        "type": {
+            "type1": 10,
+            "type2": 17
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/3.png",
+        "status": {
+            "HP": "98",
+            "攻撃": "87",
+            "防御": "105",
+            "特攻": "53",
+            "特防": "85",
+            "素早": "67",
+            "合計": "495"
+        }
+    },
+    "ピンプク": {
+        "number": "No.043",
+        "name": "ピンプク",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/134.png",
+        "status": {
+            "HP": "100",
+            "攻撃": "5",
+            "防御": "5",
+            "特攻": "15",
+            "特防": "65",
+            "素早": "30",
+            "合計": "220"
+        }
+    },
+    "ラッキー": {
+        "number": "No.044",
+        "name": "ラッキー",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/141.png",
+        "status": {
+            "HP": "250",
+            "攻撃": "5",
+            "防御": "5",
+            "特攻": "35",
+            "特防": "105",
+            "素早": "50",
+            "合計": "450"
+        }
+    },
+    "ハピナス": {
+        "number": "No.045",
+        "name": "ハピナス",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/131.png",
+        "status": {
+            "HP": "255",
+            "攻撃": "10",
+            "防御": "10",
+            "特攻": "75",
+            "特防": "135",
+            "素早": "55",
+            "合計": "540"
+        }
+    },
+    "ルリリ": {
+        "number": "No.046",
+        "name": "ルリリ",
+        "type": {
+            "type1": 1,
+            "type2": 18
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/113.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "20",
+            "防御": "40",
+            "特攻": "20",
+            "特防": "40",
+            "素早": "20",
+            "合計": "190"
+        }
+    },
+    "マリル": {
+        "number": "No.047",
+        "name": "マリル",
+        "type": {
+            "type1": 3,
+            "type2": 18
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/110.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "20",
+            "防御": "50",
+            "特攻": "20",
+            "特防": "50",
+            "素早": "40",
+            "合計": "250"
+        }
+    },
+    "マリルリ": {
+        "number": "No.048",
+        "name": "マリルリ",
+        "type": {
+            "type1": 3,
+            "type2": 18
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/108.png",
+        "status": {
+            "HP": "100",
+            "攻撃": "50",
+            "防御": "80",
+            "特攻": "60",
+            "特防": "80",
+            "素早": "50",
+            "合計": "420"
+        }
+    },
+    "アメタマ": {
+        "number": "No.049",
+        "name": "アメタマ",
+        "type": {
+            "type1": 12,
+            "type2": 3
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/259.png",
+        "status": {
+            "HP": "40",
+            "攻撃": "30",
+            "防御": "32",
+            "特攻": "50",
+            "特防": "52",
+            "素早": "65",
+            "合計": "269"
+        }
+    },
+    "アメモース": {
+        "number": "No.050",
+        "name": "アメモース",
+        "type": {
+            "type1": 12,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/260.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "60",
+            "防御": "62",
+            "特攻": "100",
+            "特防": "80",
+            "素早": "80",
+            "合計": "452"
+        }
+    },
+    "ブイゼル": {
+        "number": "No.051",
+        "name": "ブイゼル",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/261.png",
+        "status": {
+            "HP": "55",
+            "攻撃": "65",
+            "防御": "35",
+            "特攻": "60",
+            "特防": "30",
+            "素早": "85",
+            "合計": "330"
+        }
+    },
+    "フローゼル": {
+        "number": "No.052",
+        "name": "フローゼル",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/262.png",
+        "status": {
+            "HP": "85",
+            "攻撃": "105",
+            "防御": "55",
+            "特攻": "85",
+            "特防": "50",
+            "素早": "115",
+            "合計": "495"
+        }
+    },
+    "ウパー(パルデア)": {
+        "number": "No.053",
+        "name": "ウパー(パルデア)",
+        "type": {
+            "type1": 8,
+            "type2": 9
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/25.png",
+        "status": {
+            "HP": "55",
+            "攻撃": "45",
+            "防御": "45",
+            "特攻": "25",
+            "特防": "25",
+            "素早": "15",
+            "合計": "210"
+        }
+    },
+    "ドオー": {
+        "number": "No.054",
+        "name": "ドオー",
+        "type": {
+            "type1": 8,
+            "type2": 9
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/26.png",
+        "status": {
+            "HP": "130",
+            "攻撃": "75",
+            "防御": "60",
+            "特攻": "45",
+            "特防": "100",
+            "素早": "20",
+            "合計": "430"
+        }
+    },
+    "コダック": {
+        "number": "No.055",
+        "name": "コダック",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/117.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "52",
+            "防御": "48",
+            "特攻": "65",
+            "特防": "50",
+            "素早": "55",
+            "合計": "320"
+        }
+    },
+    "ゴルダック": {
+        "number": "No.056",
+        "name": "ゴルダック",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/115.png",
+        "status": {
+            "HP": "80",
+            "攻撃": "82",
+            "防御": "78",
+            "特攻": "95",
+            "特防": "80",
+            "素早": "85",
+            "合計": "500"
+        }
+    },
+    "カムカメ": {
+        "number": "No.057",
+        "name": "カムカメ",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/6.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "64",
+            "防御": "50",
+            "特攻": "38",
+            "特防": "38",
+            "素早": "44",
+            "合計": "284"
+        }
+    },
+    "カジリガメ": {
+        "number": "No.058",
+        "name": "カジリガメ",
+        "type": {
+            "type1": 3,
+            "type2": 13
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/7.png",
+        "status": {
+            "HP": "90",
+            "攻撃": "115",
+            "防御": "90",
+            "特攻": "48",
+            "特防": "68",
+            "素早": "74",
+            "合計": "485"
+        }
+    },
+    "ププリン": {
+        "number": "No.059",
+        "name": "ププリン",
+        "type": {
+            "type1": 1,
+            "type2": 18
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/116.png",
+        "status": {
+            "HP": "90",
+            "攻撃": "30",
+            "防御": "15",
+            "特攻": "40",
+            "特防": "20",
+            "素早": "15",
+            "合計": "210"
+        }
+    },
+    "プリン": {
+        "number": "No.060",
+        "name": "プリン",
+        "type": {
+            "type1": 1,
+            "type2": 18
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/114.png",
+        "status": {
+            "HP": "115",
+            "攻撃": "45",
+            "防御": "20",
+            "特攻": "45",
+            "特防": "25",
+            "素早": "20",
+            "合計": "270"
+        }
+    },
+    "プクリン": {
+        "number": "No.061",
+        "name": "プクリン",
+        "type": {
+            "type1": 1,
+            "type2": 18
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/111.png",
+        "status": {
+            "HP": "140",
+            "攻撃": "70",
+            "防御": "45",
+            "特攻": "85",
+            "特防": "50",
+            "素早": "45",
+            "合計": "435"
+        }
+    },
+    "ラルトス": {
+        "number": "No.062",
+        "name": "ラルトス",
+        "type": {
+            "type1": 11,
+            "type2": 18
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/31.png",
+        "status": {
+            "HP": "28",
+            "攻撃": "25",
+            "防御": "25",
+            "特攻": "45",
+            "特防": "35",
+            "素早": "40",
+            "合計": "198"
+        }
+    },
+    "キルリア": {
+        "number": "No.063",
+        "name": "キルリア",
+        "type": {
+            "type1": 11,
+            "type2": 18
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/32.png",
+        "status": {
+            "HP": "38",
+            "攻撃": "35",
+            "防御": "35",
+            "特攻": "65",
+            "特防": "55",
+            "素早": "50",
+            "合計": "278"
+        }
+    },
+    "サーナイト": {
+        "number": "No.064",
+        "name": "サーナイト",
+        "type": {
+            "type1": 11,
+            "type2": 18
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/33.png",
+        "status": {
+            "HP": "68",
+            "攻撃": "65",
+            "防御": "65",
+            "特攻": "125",
+            "特防": "115",
+            "素早": "80",
+            "合計": "518"
+        }
+    },
+    "エルレイド": {
+        "number": "No.065",
+        "name": "エルレイド",
+        "type": {
+            "type1": 11,
+            "type2": 7
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/34.png",
+        "status": {
+            "HP": "68",
+            "攻撃": "125",
+            "防御": "65",
+            "特攻": "65",
+            "特防": "115",
+            "素早": "80",
+            "合計": "518"
+        }
+    },
+    "スリープ": {
+        "number": "No.066",
+        "name": "スリープ",
+        "type": {
+            "type1": 11,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/139.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "48",
+            "防御": "45",
+            "特攻": "43",
+            "特防": "90",
+            "素早": "42",
+            "合計": "328"
+        }
+    },
+    "スリーパー": {
+        "number": "No.067",
+        "name": "スリーパー",
+        "type": {
+            "type1": 11,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/140.png",
+        "status": {
+            "HP": "85",
+            "攻撃": "73",
+            "防御": "70",
+            "特攻": "73",
+            "特防": "115",
+            "素早": "67",
+            "合計": "483"
+        }
+    },
+    "ゴース": {
+        "number": "No.068",
+        "name": "ゴース",
+        "type": {
+            "type1": 14,
+            "type2": 8
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/37.png",
+        "status": {
+            "HP": "30",
+            "攻撃": "35",
+            "防御": "30",
+            "特攻": "100",
+            "特防": "35",
+            "素早": "80",
+            "合計": "310"
+        }
+    },
+    "ゴースト": {
+        "number": "No.069",
+        "name": "ゴースト",
+        "type": {
+            "type1": 14,
+            "type2": 8
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/38.png",
+        "status": {
+            "HP": "45",
+            "攻撃": "50",
+            "防御": "45",
+            "特攻": "115",
+            "特防": "55",
+            "素早": "95",
+            "合計": "405"
+        }
+    },
+    "ゲンガー": {
+        "number": "No.070",
+        "name": "ゲンガー",
+        "type": {
+            "type1": 14,
+            "type2": 8
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/39.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "65",
+            "防御": "60",
+            "特攻": "130",
+            "特防": "75",
+            "素早": "110",
+            "合計": "500"
+        }
+    },
+    "ワッカネズミ": {
+        "number": "No.071",
+        "name": "ワッカネズミ",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/263.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "50",
+            "防御": "45",
+            "特攻": "40",
+            "特防": "45",
+            "素早": "75",
+            "合計": "305"
+        }
+    },
+    "イッカネズミ": {
+        "number": "No.072",
+        "name": "イッカネズミ",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/264.png",
+        "status": {
+            "HP": "74",
+            "攻撃": "75",
+            "防御": "70",
+            "特攻": "65",
+            "特防": "75",
+            "素早": "111",
+            "合計": "470"
+        }
+    },
+    "ピチュー": {
+        "number": "No.073",
+        "name": "ピチュー",
+        "type": {
+            "type1": 4,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/53.png",
+        "status": {
+            "HP": "20",
+            "攻撃": "40",
+            "防御": "15",
+            "特攻": "35",
+            "特防": "35",
+            "素早": "60",
+            "合計": "205"
+        }
+    },
+    "ピカチュウ": {
+        "number": "No.074",
+        "name": "ピカチュウ",
+        "type": {
+            "type1": 4,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/54.png",
+        "status": {
+            "HP": "35",
+            "攻撃": "55",
+            "防御": "40",
+            "特攻": "50",
+            "特防": "50",
+            "素早": "90",
+            "合計": "320"
+        }
+    },
+    "ライチュウ": {
+        "number": "No.075",
+        "name": "ライチュウ",
+        "type": {
+            "type1": 4,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/55.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "90",
+            "防御": "55",
+            "特攻": "90",
+            "特防": "80",
+            "素早": "110",
+            "合計": "485"
+        }
+    },
+    "パピモッチ": {
+        "number": "No.076",
+        "name": "パピモッチ",
+        "type": {
+            "type1": 18,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/265.png",
+        "status": {
+            "HP": "37",
+            "攻撃": "55",
+            "防御": "70",
+            "特攻": "30",
+            "特防": "55",
+            "素早": "65",
+            "合計": "312"
+        }
+    },
+    "バウッツェル": {
+        "number": "No.077",
+        "name": "バウッツェル",
+        "type": {
+            "type1": 18,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/266.png",
+        "status": {
+            "HP": "57",
+            "攻撃": "80",
+            "防御": "115",
+            "特攻": "50",
+            "特防": "80",
+            "素早": "95",
+            "合計": "477"
+        }
+    },
+    "ナマケロ": {
+        "number": "No.078",
+        "name": "ナマケロ",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/169.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "60",
+            "防御": "60",
+            "特攻": "35",
+            "特防": "35",
+            "素早": "30",
+            "合計": "280"
+        }
+    },
+    "ヤルキモノ": {
+        "number": "No.079",
+        "name": "ヤルキモノ",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/170.png",
+        "status": {
+            "HP": "80",
+            "攻撃": "80",
+            "防御": "80",
+            "特攻": "55",
+            "特防": "55",
+            "素早": "90",
+            "合計": "440"
+        }
+    },
+    "ケッキング": {
+        "number": "No.080",
+        "name": "ケッキング",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/171.png",
+        "status": {
+            "HP": "150",
+            "攻撃": "160",
+            "防御": "100",
+            "特攻": "95",
+            "特防": "65",
+            "素早": "100",
+            "合計": "670"
+        }
+    },
+    "アマカジ": {
+        "number": "No.081",
+        "name": "アマカジ",
+        "type": {
+            "type1": 5,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/8.png",
+        "status": {
+            "HP": "42",
+            "攻撃": "30",
+            "防御": "38",
+            "特攻": "30",
+            "特防": "38",
+            "素早": "32",
+            "合計": "210"
+        }
+    },
+    "アママイコ": {
+        "number": "No.082",
+        "name": "アママイコ",
+        "type": {
+            "type1": 5,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/9.png",
+        "status": {
+            "HP": "52",
+            "攻撃": "40",
+            "防御": "48",
+            "特攻": "40",
+            "特防": "48",
+            "素早": "62",
+            "合計": "290"
+        }
+    },
+    "アマージョ": {
+        "number": "No.083",
+        "name": "アマージョ",
+        "type": {
+            "type1": 5,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/10.png",
+        "status": {
+            "HP": "72",
+            "攻撃": "120",
+            "防御": "98",
+            "特攻": "50",
+            "特防": "98",
+            "素早": "72",
+            "合計": "510"
+        }
+    },
+    "ミニーブ": {
+        "number": "No.084",
+        "name": "ミニーブ",
+        "type": {
+            "type1": 5,
+            "type2": 1
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/267.png",
+        "status": {
+            "HP": "41",
+            "攻撃": "35",
+            "防御": "45",
+            "特攻": "48",
+            "特防": "51",
+            "素早": "30",
+            "合計": "250"
+        }
+    },
+    "オリーニョ": {
+        "number": "No.085",
+        "name": "オリーニョ",
+        "type": {
+            "type1": 5,
+            "type2": 1
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/268.png",
+        "status": {
+            "HP": "52",
+            "攻撃": "53",
+            "防御": "60",
+            "特攻": "78",
+            "特防": "78",
+            "素早": "33",
+            "合計": "354"
+        }
+    },
+    "オリーヴァ": {
+        "number": "No.086",
+        "name": "オリーヴァ",
+        "type": {
+            "type1": 5,
+            "type2": 1
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/269.png",
+        "status": {
+            "HP": "78",
+            "攻撃": "69",
+            "防御": "90",
+            "特攻": "125",
+            "特防": "109",
+            "素早": "39",
+            "合計": "510"
+        }
+    },
+    "ウソハチ": {
+        "number": "No.087",
+        "name": "ウソハチ",
+        "type": {
+            "type1": 13,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/71.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "80",
+            "防御": "95",
+            "特攻": "10",
+            "特防": "45",
+            "素早": "10",
+            "合計": "290"
+        }
+    },
+    "ウソッキー": {
+        "number": "No.088",
+        "name": "ウソッキー",
+        "type": {
+            "type1": 13,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/72.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "100",
+            "防御": "115",
+            "特攻": "30",
+            "特防": "65",
+            "素早": "30",
+            "合計": "410"
+        }
+    },
+    "イワンコ": {
+        "number": "No.089",
+        "name": "イワンコ",
+        "type": {
+            "type1": 13,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/125.png",
+        "status": {
+            "HP": "45",
+            "攻撃": "65",
+            "防御": "40",
+            "特攻": "30",
+            "特防": "40",
+            "素早": "60",
+            "合計": "280"
+        }
+    },
+    "ルガルガン": {
+        "number": "No.090",
+        "name": "ルガルガン",
+        "type": {
+            "type1": 13,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/214.png",
+        "status": {
+            "HP": "75",
+            "攻撃": "117",
+            "防御": "65",
+            "特攻": "55",
+            "特防": "65",
+            "素早": "110",
+            "合計": "487"
+        }
+    },
+    "タンドン": {
+        "number": "No.091",
+        "name": "タンドン",
+        "type": {
+            "type1": 13,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/44.png",
+        "status": {
+            "HP": "30",
+            "攻撃": "40",
+            "防御": "50",
+            "特攻": "40",
+            "特防": "50",
+            "素早": "30",
+            "合計": "240"
+        }
+    },
+    "トロッゴン": {
+        "number": "No.092",
+        "name": "トロッゴン",
+        "type": {
+            "type1": 13,
+            "type2": 2
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/45.png",
+        "status": {
+            "HP": "80",
+            "攻撃": "60",
+            "防御": "90",
+            "特攻": "60",
+            "特防": "70",
+            "素早": "50",
+            "合計": "410"
+        }
+    },
+    "セキタンザン": {
+        "number": "No.093",
+        "name": "セキタンザン",
+        "type": {
+            "type1": 13,
+            "type2": 2
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/46.png",
+        "status": {
+            "HP": "110",
+            "攻撃": "80",
+            "防御": "120",
+            "特攻": "80",
+            "特防": "90",
+            "素早": "30",
+            "合計": "510"
+        }
+    },
+    "コリンク": {
+        "number": "No.094",
+        "name": "コリンク",
+        "type": {
+            "type1": 4,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/187.png",
+        "status": {
+            "HP": "45",
+            "攻撃": "65",
+            "防御": "34",
+            "特攻": "40",
+            "特防": "34",
+            "素早": "45",
+            "合計": "263"
+        }
+    },
+    "ルクシオ": {
+        "number": "No.095",
+        "name": "ルクシオ",
+        "type": {
+            "type1": 4,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/132.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "85",
+            "防御": "49",
+            "特攻": "60",
+            "特防": "49",
+            "素早": "60",
+            "合計": "363"
+        }
+    },
+    "レントラー": {
+        "number": "No.096",
+        "name": "レントラー",
+        "type": {
+            "type1": 4,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/128.png",
+        "status": {
+            "HP": "80",
+            "攻撃": "120",
+            "防御": "79",
+            "特攻": "95",
+            "特防": "79",
+            "素早": "70",
+            "合計": "523"
+        }
+    },
+    "ムックル": {
+        "number": "No.097",
+        "name": "ムックル",
+        "type": {
+            "type1": 1,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/233.png",
+        "status": {
+            "HP": "40",
+            "攻撃": "55",
+            "防御": "30",
+            "特攻": "30",
+            "特防": "30",
+            "素早": "60",
+            "合計": "245"
+        }
+    },
+    "ムクバード": {
+        "number": "No.098",
+        "name": "ムクバード",
+        "type": {
+            "type1": 1,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/234.png",
+        "status": {
+            "HP": "55",
+            "攻撃": "75",
+            "防御": "50",
+            "特攻": "40",
+            "特防": "40",
+            "素早": "80",
+            "合計": "340"
+        }
+    },
+    "ムクホーク": {
+        "number": "No.099",
+        "name": "ムクホーク",
+        "type": {
+            "type1": 1,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/235.png",
+        "status": {
+            "HP": "85",
+            "攻撃": "120",
+            "防御": "70",
+            "特攻": "50",
+            "特防": "60",
+            "素早": "100",
+            "合計": "485"
+        }
+    },
+    "オドリドリ": {
+        "number": "No.100",
+        "name": "オドリドリ",
+        "type": {
+            "type1": 14,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/227.png",
+        "status": {
+            "HP": "75",
+            "攻撃": "70",
+            "防御": "70",
+            "特攻": "98",
+            "特防": "70",
+            "素早": "93",
+            "合計": "476"
+        }
+    },
+    "メリープ": {
+        "number": "No.101",
+        "name": "メリープ",
+        "type": {
+            "type1": 4,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/145.png",
+        "status": {
+            "HP": "55",
+            "攻撃": "40",
+            "防御": "40",
+            "特攻": "65",
+            "特防": "45",
+            "素早": "35",
+            "合計": "280"
+        }
+    },
+    "モココ": {
+        "number": "No.102",
+        "name": "モココ",
+        "type": {
+            "type1": 4,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/146.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "55",
+            "防御": "55",
+            "特攻": "80",
+            "特防": "60",
+            "素早": "45",
+            "合計": "365"
+        }
+    },
+    "デンリュウ": {
+        "number": "No.103",
+        "name": "デンリュウ",
+        "type": {
+            "type1": 4,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/147.png",
+        "status": {
+            "HP": "90",
+            "攻撃": "75",
+            "防御": "85",
+            "特攻": "115",
+            "特防": "90",
+            "素早": "55",
+            "合計": "510"
+        }
+    },
+    "チュリネ": {
+        "number": "No.104",
+        "name": "チュリネ",
+        "type": {
+            "type1": 5,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/191.png",
+        "status": {
+            "HP": "45",
+            "攻撃": "35",
+            "防御": "50",
+            "特攻": "70",
+            "特防": "50",
+            "素早": "30",
+            "合計": "280"
+        }
+    },
+    "ドレディア": {
+        "number": "No.105",
+        "name": "ドレディア",
+        "type": {
+            "type1": 5,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/192.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "60",
+            "防御": "75",
+            "特攻": "110",
+            "特防": "75",
+            "素早": "90",
+            "合計": "480"
+        }
+    },
+    "キノココ": {
+        "number": "No.106",
+        "name": "キノココ",
+        "type": {
+            "type1": 5,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/167.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "40",
+            "防御": "60",
+            "特攻": "40",
+            "特防": "60",
+            "素早": "35",
+            "合計": "295"
+        }
+    },
+    "キノガッサ": {
+        "number": "No.107",
+        "name": "キノガッサ",
+        "type": {
+            "type1": 5,
+            "type2": 7
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/168.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "130",
+            "防御": "80",
+            "特攻": "60",
+            "特防": "60",
+            "素早": "70",
+            "合計": "460"
+        }
+    },
+    "カジッチュ": {
+        "number": "No.108",
+        "name": "カジッチュ",
+        "type": {
+            "type1": 5,
+            "type2": 15
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/65.png",
+        "status": {
+            "HP": "40",
+            "攻撃": "40",
+            "防御": "80",
+            "特攻": "40",
+            "特防": "40",
+            "素早": "20",
+            "合計": "260"
+        }
+    },
+    "アップリュー": {
+        "number": "No.109",
+        "name": "アップリュー",
+        "type": {
+            "type1": 5,
+            "type2": 15
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/66.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "110",
+            "防御": "80",
+            "特攻": "95",
+            "特防": "60",
+            "素早": "70",
+            "合計": "485"
+        }
+    },
+    "タルップル": {
+        "number": "No.110",
+        "name": "タルップル",
+        "type": {
+            "type1": 5,
+            "type2": 15
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/67.png",
+        "status": {
+            "HP": "110",
+            "攻撃": "85",
+            "防御": "80",
+            "特攻": "100",
+            "特防": "80",
+            "素早": "30",
+            "合計": "485"
+        }
+    },
+    "バネブー": {
+        "number": "No.111",
+        "name": "バネブー",
+        "type": {
+            "type1": 11,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/270.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "25",
+            "防御": "35",
+            "特攻": "70",
+            "特防": "80",
+            "素早": "60",
+            "合計": "330"
+        }
+    },
+    "ブーピッグ": {
+        "number": "No.112",
+        "name": "ブーピッグ",
+        "type": {
+            "type1": 11,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/271.png",
+        "status": {
+            "HP": "80",
+            "攻撃": "45",
+            "防御": "65",
+            "特攻": "90",
+            "特防": "110",
+            "素早": "80",
+            "合計": "470"
+        }
+    },
+    "イキリンコ": {
+        "number": "No.113",
+        "name": "イキリンコ",
+        "type": {
+            "type1": 1,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/439.png",
+        "status": {
+            "HP": "82",
+            "攻撃": "96",
+            "防御": "51",
+            "特攻": "45",
+            "特防": "51",
+            "素早": "92",
+            "合計": "417"
+        }
+    },
+    "ムウマ": {
+        "number": "No.114",
+        "name": "ムウマ",
+        "type": {
+            "type1": 14,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/154.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "60",
+            "防御": "60",
+            "特攻": "85",
+            "特防": "85",
+            "素早": "85",
+            "合計": "435"
+        }
+    },
+    "ムウマージ": {
+        "number": "No.115",
+        "name": "ムウマージ",
+        "type": {
+            "type1": 14,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/186.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "60",
+            "防御": "60",
+            "特攻": "105",
+            "特防": "105",
+            "素早": "105",
+            "合計": "495"
+        }
+    },
+    "マクノシタ": {
+        "number": "No.116",
+        "name": "マクノシタ",
+        "type": {
+            "type1": 7,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/172.png",
+        "status": {
+            "HP": "72",
+            "攻撃": "60",
+            "防御": "30",
+            "特攻": "20",
+            "特防": "30",
+            "素早": "25",
+            "合計": "237"
+        }
+    },
+    "ハリテヤマ": {
+        "number": "No.117",
+        "name": "ハリテヤマ",
+        "type": {
+            "type1": 7,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/173.png",
+        "status": {
+            "HP": "144",
+            "攻撃": "120",
+            "防御": "60",
+            "特攻": "40",
+            "特防": "60",
+            "素早": "50",
+            "合計": "474"
+        }
+    },
+    "マケンカニ": {
+        "number": "No.118",
+        "name": "マケンカニ",
+        "type": {
+            "type1": 7,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/273.png",
+        "status": {
+            "HP": "47",
+            "攻撃": "82",
+            "防御": "57",
+            "特攻": "42",
+            "特防": "47",
+            "素早": "63",
+            "合計": "338"
+        }
+    },
+    "ケケンカニ": {
+        "number": "No.119",
+        "name": "ケケンカニ",
+        "type": {
+            "type1": 7,
+            "type2": 6
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/274.png",
+        "status": {
+            "HP": "97",
+            "攻撃": "132",
+            "防御": "77",
+            "特攻": "62",
+            "特防": "67",
+            "素早": "43",
+            "合計": "478"
+        }
+    },
+    "ヤトウモリ": {
+        "number": "No.120",
+        "name": "ヤトウモリ",
+        "type": {
+            "type1": 8,
+            "type2": 2
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/275.png",
+        "status": {
+            "HP": "48",
+            "攻撃": "44",
+            "防御": "40",
+            "特攻": "71",
+            "特防": "40",
+            "素早": "77",
+            "合計": "320"
+        }
+    },
+    "エンニュート": {
+        "number": "No.121",
+        "name": "エンニュート",
+        "type": {
+            "type1": 8,
+            "type2": 2
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/276.png",
+        "status": {
+            "HP": "68",
+            "攻撃": "64",
+            "防御": "60",
+            "特攻": "111",
+            "特防": "60",
+            "素早": "117",
+            "合計": "480"
+        }
+    },
+    "ゴマゾウ": {
+        "number": "No.122",
+        "name": "ゴマゾウ",
+        "type": {
+            "type1": 9,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/162.png",
+        "status": {
+            "HP": "90",
+            "攻撃": "60",
+            "防御": "60",
+            "特攻": "40",
+            "特防": "40",
+            "素早": "40",
+            "合計": "330"
+        }
+    },
+    "ドンファン": {
+        "number": "No.123",
+        "name": "ドンファン",
+        "type": {
+            "type1": 9,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/163.png",
+        "status": {
+            "HP": "90",
+            "攻撃": "120",
+            "防御": "120",
+            "特攻": "60",
+            "特防": "60",
+            "素早": "50",
+            "合計": "500"
+        }
+    },
+    "ゾウドウ": {
+        "number": "No.124",
+        "name": "ゾウドウ",
+        "type": {
+            "type1": 17,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/81.png",
+        "status": {
+            "HP": "72",
+            "攻撃": "80",
+            "防御": "49",
+            "特攻": "40",
+            "特防": "49",
+            "素早": "40",
+            "合計": "330"
+        }
+    },
+    "ダイオウドウ": {
+        "number": "No.125",
+        "name": "ダイオウドウ",
+        "type": {
+            "type1": 17,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/82.png",
+        "status": {
+            "HP": "122",
+            "攻撃": "130",
+            "防御": "69",
+            "特攻": "80",
+            "特防": "69",
+            "素早": "30",
+            "合計": "500"
+        }
+    },
+    "フカマル": {
+        "number": "No.126",
+        "name": "フカマル",
+        "type": {
+            "type1": 15,
+            "type2": 9
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/277.png",
+        "status": {
+            "HP": "58",
+            "攻撃": "70",
+            "防御": "45",
+            "特攻": "40",
+            "特防": "45",
+            "素早": "42",
+            "合計": "300"
+        }
+    },
+    "ガバイト": {
+        "number": "No.127",
+        "name": "ガバイト",
+        "type": {
+            "type1": 15,
+            "type2": 9
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/278.png",
+        "status": {
+            "HP": "68",
+            "攻撃": "90",
+            "防御": "65",
+            "特攻": "50",
+            "特防": "55",
+            "素早": "82",
+            "合計": "410"
+        }
+    },
+    "ガブリアス": {
+        "number": "No.128",
+        "name": "ガブリアス",
+        "type": {
+            "type1": 15,
+            "type2": 9
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/279.png",
+        "status": {
+            "HP": "108",
+            "攻撃": "130",
+            "防御": "95",
+            "特攻": "80",
+            "特防": "85",
+            "素早": "102",
+            "合計": "600"
+        }
+    },
+    "コジオ": {
+        "number": "No.129",
+        "name": "コジオ",
+        "type": {
+            "type1": 13,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/280.png",
+        "status": {
+            "HP": "55",
+            "攻撃": "55",
+            "防御": "75",
+            "特攻": "35",
+            "特防": "35",
+            "素早": "25",
+            "合計": "280"
+        }
+    },
+    "ジオヅム": {
+        "number": "No.130",
+        "name": "ジオヅム",
+        "type": {
+            "type1": 13,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/281.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "60",
+            "防御": "100",
+            "特攻": "35",
+            "特防": "65",
+            "素早": "35",
+            "合計": "355"
+        }
+    },
+    "キョジオーン": {
+        "number": "No.131",
+        "name": "キョジオーン",
+        "type": {
+            "type1": 13,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/282.png",
+        "status": {
+            "HP": "100",
+            "攻撃": "100",
+            "防御": "130",
+            "特攻": "45",
+            "特防": "90",
+            "素早": "35",
+            "合計": "500"
+        }
+    },
+    "キャモメ": {
+        "number": "No.132",
+        "name": "キャモメ",
+        "type": {
+            "type1": 3,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/14.png",
+        "status": {
+            "HP": "40",
+            "攻撃": "30",
+            "防御": "30",
+            "特攻": "55",
+            "特防": "30",
+            "素早": "85",
+            "合計": "270"
+        }
+    },
+    "ペリッパー": {
+        "number": "No.133",
+        "name": "ペリッパー",
+        "type": {
+            "type1": 3,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/15.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "50",
+            "防御": "100",
+            "特攻": "95",
+            "特防": "70",
+            "素早": "65",
+            "合計": "440"
+        }
+    },
+    "コイキング": {
+        "number": "No.134",
+        "name": "コイキング",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/40.png",
+        "status": {
+            "HP": "20",
+            "攻撃": "10",
+            "防御": "55",
+            "特攻": "15",
+            "特防": "20",
+            "素早": "80",
+            "合計": "200"
+        }
+    },
+    "ギャラドス": {
+        "number": "No.135",
+        "name": "ギャラドス",
+        "type": {
+            "type1": 3,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/41.png",
+        "status": {
+            "HP": "95",
+            "攻撃": "125",
+            "防御": "79",
+            "特攻": "60",
+            "特防": "100",
+            "素早": "81",
+            "合計": "540"
+        }
+    },
+    "サシカマス": {
+        "number": "No.136",
+        "name": "サシカマス",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/283.png",
+        "status": {
+            "HP": "41",
+            "攻撃": "63",
+            "防御": "40",
+            "特攻": "40",
+            "特防": "30",
+            "素早": "66",
+            "合計": "280"
+        }
+    },
+    "カマスジョー": {
+        "number": "No.137",
+        "name": "カマスジョー",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/284.png",
+        "status": {
+            "HP": "61",
+            "攻撃": "123",
+            "防御": "60",
+            "特攻": "60",
+            "特防": "50",
+            "素早": "136",
+            "合計": "490"
+        }
+    },
+    "バスラオ": {
+        "number": "No.138",
+        "name": "バスラオ",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/285.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "92",
+            "防御": "65",
+            "特攻": "80",
+            "特防": "55",
+            "素早": "98",
+            "合計": "460"
+        }
+    },
+    "ゴクリン": {
+        "number": "No.139",
+        "name": "ゴクリン",
+        "type": {
+            "type1": 8,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/286.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "43",
+            "防御": "53",
+            "特攻": "43",
+            "特防": "53",
+            "素早": "40",
+            "合計": "302"
+        }
+    },
+    "マルノーム": {
+        "number": "No.140",
+        "name": "マルノーム",
+        "type": {
+            "type1": 8,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/287.png",
+        "status": {
+            "HP": "100",
+            "攻撃": "73",
+            "防御": "83",
+            "特攻": "73",
+            "特防": "83",
+            "素早": "55",
+            "合計": "467"
+        }
+    },
+    "ニャース": {
+        "number": "No.141",
+        "name": "ニャース",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/51.png",
+        "status": {
+            "HP": "40",
+            "攻撃": "45",
+            "防御": "35",
+            "特攻": "40",
+            "特防": "40",
+            "素早": "90",
+            "合計": "290"
+        }
+    },
+    "ペルシアン": {
+        "number": "No.142",
+        "name": "ペルシアン",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/52.png",
+        "status": {
+            "HP": "65",
+            "攻撃": "70",
+            "防御": "60",
+            "特攻": "65",
+            "特防": "65",
+            "素早": "115",
+            "合計": "440"
+        }
+    },
+    "フワンテ": {
+        "number": "No.143",
+        "name": "フワンテ",
+        "type": {
+            "type1": 14,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/35.png",
+        "status": {
+            "HP": "90",
+            "攻撃": "50",
+            "防御": "34",
+            "特攻": "60",
+            "特防": "44",
+            "素早": "70",
+            "合計": "348"
+        }
+    },
+    "フワライド": {
+        "number": "No.144",
+        "name": "フワライド",
+        "type": {
+            "type1": 14,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/36.png",
+        "status": {
+            "HP": "150",
+            "攻撃": "80",
+            "防御": "44",
+            "特攻": "90",
+            "特防": "54",
+            "素早": "80",
+            "合計": "498"
+        }
+    },
+    "フラベベ": {
+        "number": "No.145",
+        "name": "フラベベ",
+        "type": {
+            "type1": 18,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/204.png",
+        "status": {
+            "HP": "44",
+            "攻撃": "38",
+            "防御": "39",
+            "特攻": "61",
+            "特防": "79",
+            "素早": "42",
+            "合計": "303"
+        }
+    },
+    "フラエッテ": {
+        "number": "No.146",
+        "name": "フラエッテ",
+        "type": {
+            "type1": 18,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/205.png",
+        "status": {
+            "HP": "54",
+            "攻撃": "45",
+            "防御": "47",
+            "特攻": "75",
+            "特防": "98",
+            "素早": "52",
+            "合計": "371"
+        }
+    },
+    "フラージェス": {
+        "number": "No.147",
+        "name": "フラージェス",
+        "type": {
+            "type1": 18,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/206.png",
+        "status": {
+            "HP": "78",
+            "攻撃": "65",
+            "防御": "68",
+            "特攻": "112",
+            "特防": "154",
+            "素早": "75",
+            "合計": "552"
+        }
+    },
+    "ディグダ": {
+        "number": "No.148",
+        "name": "ディグダ",
+        "type": {
+            "type1": 9,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/47.png",
+        "status": {
+            "HP": "10",
+            "攻撃": "55",
+            "防御": "25",
+            "特攻": "35",
+            "特防": "45",
+            "素早": "95",
+            "合計": "265"
+        }
+    },
+    "ダグトリオ": {
+        "number": "No.149",
+        "name": "ダグトリオ",
+        "type": {
+            "type1": 9,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/48.png",
+        "status": {
+            "HP": "35",
+            "攻撃": "100",
+            "防御": "50",
+            "特攻": "50",
+            "特防": "70",
+            "素早": "120",
+            "合計": "425"
+        }
+    },
+    "コータス": {
+        "number": "No.150",
+        "name": "コータス",
+        "type": {
+            "type1": 2,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/80.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "85",
+            "防御": "140",
+            "特攻": "85",
+            "特防": "70",
+            "素早": "20",
+            "合計": "470"
+        }
+    },
+    "ドンメル": {
+        "number": "No.151",
+        "name": "ドンメル",
+        "type": {
+            "type1": 2,
+            "type2": 9
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/183.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "60",
+            "防御": "40",
+            "特攻": "65",
+            "特防": "45",
+            "素早": "35",
+            "合計": "305"
+        }
+    },
+    "バクーダ": {
+        "number": "No.152",
+        "name": "バクーダ",
+        "type": {
+            "type1": 2,
+            "type2": 9
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/184.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "100",
+            "防御": "70",
+            "特攻": "105",
+            "特防": "75",
+            "素早": "40",
+            "合計": "460"
+        }
+    },
+    "ドーミラー": {
+        "number": "No.153",
+        "name": "ドーミラー",
+        "type": {
+            "type1": 17,
+            "type2": 11
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/29.png",
+        "status": {
+            "HP": "57",
+            "攻撃": "24",
+            "防御": "86",
+            "特攻": "24",
+            "特防": "86",
+            "素早": "23",
+            "合計": "300"
+        }
+    },
+    "ドータクン": {
+        "number": "No.154",
+        "name": "ドータクン",
+        "type": {
+            "type1": 17,
+            "type2": 11
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/30.png",
+        "status": {
+            "HP": "67",
+            "攻撃": "89",
+            "防御": "116",
+            "特攻": "79",
+            "特防": "116",
+            "素早": "33",
+            "合計": "500"
+        }
+    },
+    "キバゴ": {
+        "number": "No.155",
+        "name": "キバゴ",
+        "type": {
+            "type1": 15,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/288.png",
+        "status": {
+            "HP": "46",
+            "攻撃": "87",
+            "防御": "60",
+            "特攻": "30",
+            "特防": "40",
+            "素早": "57",
+            "合計": "320"
+        }
+    },
+    "オノンド": {
+        "number": "No.156",
+        "name": "オノンド",
+        "type": {
+            "type1": 15,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/289.png",
+        "status": {
+            "HP": "66",
+            "攻撃": "117",
+            "防御": "70",
+            "特攻": "40",
+            "特防": "50",
+            "素早": "67",
+            "合計": "410"
+        }
+    },
+    "オノノクス": {
+        "number": "No.157",
+        "name": "オノノクス",
+        "type": {
+            "type1": 15,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/290.png",
+        "status": {
+            "HP": "76",
+            "攻撃": "147",
+            "防御": "90",
+            "特攻": "60",
+            "特防": "70",
+            "素早": "97",
+            "合計": "540"
+        }
+    },
+    "マンキー": {
+        "number": "No.158",
+        "name": "マンキー",
+        "type": {
+            "type1": 7,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/291.png",
+        "status": {
+            "HP": "40",
+            "攻撃": "80",
+            "防御": "35",
+            "特攻": "35",
+            "特防": "45",
+            "素早": "70",
+            "合計": "305"
+        }
+    },
+    "オコリザル": {
+        "number": "No.159",
+        "name": "オコリザル",
+        "type": {
+            "type1": 7,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/292.png",
+        "status": {
+            "HP": "65",
+            "攻撃": "105",
+            "防御": "60",
+            "特攻": "60",
+            "特防": "70",
+            "素早": "95",
+            "合計": "455"
+        }
+    },
+    "コノヨザル": {
+        "number": "No.160",
+        "name": "コノヨザル",
+        "type": {
+            "type1": 7,
+            "type2": 14
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/293.png",
+        "status": {
+            "HP": "110",
+            "攻撃": "115",
+            "防御": "80",
+            "特攻": "50",
+            "特防": "90",
+            "素早": "90",
+            "合計": "535"
+        }
+    },
+    "アサナン": {
+        "number": "No.161",
+        "name": "アサナン",
+        "type": {
+            "type1": 7,
+            "type2": 11
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/174.png",
+        "status": {
+            "HP": "30",
+            "攻撃": "40",
+            "防御": "55",
+            "特攻": "40",
+            "特防": "55",
+            "素早": "60",
+            "合計": "280"
+        }
+    },
+    "チャーレム": {
+        "number": "No.162",
+        "name": "チャーレム",
+        "type": {
+            "type1": 7,
+            "type2": 11
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/175.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "60",
+            "防御": "75",
+            "特攻": "60",
+            "特防": "75",
+            "素早": "80",
+            "合計": "410"
+        }
+    },
+    "リオル": {
+        "number": "No.163",
+        "name": "リオル",
+        "type": {
+            "type1": 7,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/78.png",
+        "status": {
+            "HP": "40",
+            "攻撃": "70",
+            "防御": "40",
+            "特攻": "35",
+            "特防": "40",
+            "素早": "60",
+            "合計": "285"
+        }
+    },
+    "ルカリオ": {
+        "number": "No.164",
+        "name": "ルカリオ",
+        "type": {
+            "type1": 7,
+            "type2": 17
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/79.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "110",
+            "防御": "70",
+            "特攻": "115",
+            "特防": "70",
+            "素早": "90",
+            "合計": "525"
+        }
+    },
+    "カルボウ": {
+        "number": "No.165",
+        "name": "カルボウ",
+        "type": {
+            "type1": 2,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/294.png",
+        "status": {
+            "HP": "40",
+            "攻撃": "50",
+            "防御": "40",
+            "特攻": "50",
+            "特防": "40",
+            "素早": "35",
+            "合計": "255"
+        }
+    },
+    "グレンアルマ": {
+        "number": "No.166",
+        "name": "グレンアルマ",
+        "type": {
+            "type1": 2,
+            "type2": 11
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/295.png",
+        "status": {
+            "HP": "85",
+            "攻撃": "60",
+            "防御": "100",
+            "特攻": "125",
+            "特防": "80",
+            "素早": "75",
+            "合計": "525"
+        }
+    },
+    "ソウブレイズ": {
+        "number": "No.167",
+        "name": "ソウブレイズ",
+        "type": {
+            "type1": 2,
+            "type2": 14
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/296.png",
+        "status": {
+            "HP": "75",
+            "攻撃": "125",
+            "防御": "80",
+            "特攻": "60",
+            "特防": "100",
+            "素早": "85",
+            "合計": "525"
+        }
+    },
+    "ドジョッチ": {
+        "number": "No.168",
+        "name": "ドジョッチ",
+        "type": {
+            "type1": 3,
+            "type2": 9
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/297.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "48",
+            "防御": "43",
+            "特攻": "46",
+            "特防": "41",
+            "素早": "60",
+            "合計": "288"
+        }
+    },
+    "ナマズン": {
+        "number": "No.169",
+        "name": "ナマズン",
+        "type": {
+            "type1": 3,
+            "type2": 9
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/298.png",
+        "status": {
+            "HP": "110",
+            "攻撃": "78",
+            "防御": "73",
+            "特攻": "76",
+            "特防": "71",
+            "素早": "60",
+            "合計": "468"
+        }
+    },
+    "ズピカ": {
+        "number": "No.170",
+        "name": "ズピカ",
+        "type": {
+            "type1": 4,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/299.png",
+        "status": {
+            "HP": "61",
+            "攻撃": "31",
+            "防御": "41",
+            "特攻": "59",
+            "特防": "35",
+            "素早": "45",
+            "合計": "272"
+        }
+    },
+    "ハラバリー": {
+        "number": "No.171",
+        "name": "ハラバリー",
+        "type": {
+            "type1": 4,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/300.png",
+        "status": {
+            "HP": "109",
+            "攻撃": "64",
+            "防御": "91",
+            "特攻": "103",
+            "特防": "83",
+            "素早": "45",
+            "合計": "495"
+        }
+    },
+    "ヌメラ": {
+        "number": "No.172",
+        "name": "ヌメラ",
+        "type": {
+            "type1": 15,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/105.png",
+        "status": {
+            "HP": "45",
+            "攻撃": "50",
+            "防御": "35",
+            "特攻": "55",
+            "特防": "75",
+            "素早": "40",
+            "合計": "300"
+        }
+    },
+    "ヌメイル": {
+        "number": "No.173",
+        "name": "ヌメイル",
+        "type": {
+            "type1": 15,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/106.png",
+        "status": {
+            "HP": "68",
+            "攻撃": "75",
+            "防御": "53",
+            "特攻": "83",
+            "特防": "113",
+            "素早": "60",
+            "合計": "452"
+        }
+    },
+    "ヌメルゴン": {
+        "number": "No.174",
+        "name": "ヌメルゴン",
+        "type": {
+            "type1": 15,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/107.png",
+        "status": {
+            "HP": "90",
+            "攻撃": "100",
+            "防御": "70",
+            "特攻": "110",
+            "特防": "150",
+            "素早": "80",
+            "合計": "600"
+        }
+    },
+    "グレッグル": {
+        "number": "No.175",
+        "name": "グレッグル",
+        "type": {
+            "type1": 8,
+            "type2": 7
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/228.png",
+        "status": {
+            "HP": "48",
+            "攻撃": "61",
+            "防御": "40",
+            "特攻": "61",
+            "特防": "40",
+            "素早": "50",
+            "合計": "300"
+        }
+    },
+    "ドクロッグ": {
+        "number": "No.176",
+        "name": "ドクロッグ",
+        "type": {
+            "type1": 8,
+            "type2": 7
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/229.png",
+        "status": {
+            "HP": "83",
+            "攻撃": "106",
+            "防御": "65",
+            "特攻": "86",
+            "特防": "65",
+            "素早": "85",
+            "合計": "490"
+        }
+    },
+    "カイデン": {
+        "number": "No.177",
+        "name": "カイデン",
+        "type": {
+            "type1": 4,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/301.png",
+        "status": {
+            "HP": "40",
+            "攻撃": "40",
+            "防御": "35",
+            "特攻": "55",
+            "特防": "40",
+            "素早": "70",
+            "合計": "280"
+        }
+    },
+    "タイカイデン": {
+        "number": "No.178",
+        "name": "タイカイデン",
+        "type": {
+            "type1": 4,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/302.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "70",
+            "防御": "60",
+            "特攻": "105",
+            "特防": "60",
+            "素早": "125",
+            "合計": "490"
+        }
+    },
+    "イーブイ": {
+        "number": "No.179",
+        "name": "イーブイ",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/56.png",
+        "status": {
+            "HP": "55",
+            "攻撃": "55",
+            "防御": "50",
+            "特攻": "45",
+            "特防": "65",
+            "素早": "55",
+            "合計": "325"
+        }
+    },
+    "シャワーズ": {
+        "number": "No.180",
+        "name": "シャワーズ",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/57.png",
+        "status": {
+            "HP": "130",
+            "攻撃": "65",
+            "防御": "60",
+            "特攻": "110",
+            "特防": "95",
+            "素早": "65",
+            "合計": "525"
+        }
+    },
+    "サンダース": {
+        "number": "No.181",
+        "name": "サンダース",
+        "type": {
+            "type1": 4,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/58.png",
+        "status": {
+            "HP": "65",
+            "攻撃": "65",
+            "防御": "60",
+            "特攻": "110",
+            "特防": "95",
+            "素早": "130",
+            "合計": "525"
+        }
+    },
+    "ブースター": {
+        "number": "No.182",
+        "name": "ブースター",
+        "type": {
+            "type1": 2,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/59.png",
+        "status": {
+            "HP": "65",
+            "攻撃": "130",
+            "防御": "60",
+            "特攻": "95",
+            "特防": "110",
+            "素早": "65",
+            "合計": "525"
+        }
+    },
+    "エーフィ": {
+        "number": "No.183",
+        "name": "エーフィ",
+        "type": {
+            "type1": 11,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/60.png",
+        "status": {
+            "HP": "65",
+            "攻撃": "65",
+            "防御": "60",
+            "特攻": "130",
+            "特防": "95",
+            "素早": "110",
+            "合計": "525"
+        }
+    },
+    "ブラッキー": {
+        "number": "No.184",
+        "name": "ブラッキー",
+        "type": {
+            "type1": 16,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/61.png",
+        "status": {
+            "HP": "95",
+            "攻撃": "65",
+            "防御": "110",
+            "特攻": "60",
+            "特防": "130",
+            "素早": "65",
+            "合計": "525"
+        }
+    },
+    "リーフィア": {
+        "number": "No.185",
+        "name": "リーフィア",
+        "type": {
+            "type1": 5,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/62.png",
+        "status": {
+            "HP": "65",
+            "攻撃": "110",
+            "防御": "130",
+            "特攻": "60",
+            "特防": "65",
+            "素早": "95",
+            "合計": "525"
+        }
+    },
+    "グレイシア": {
+        "number": "No.186",
+        "name": "グレイシア",
+        "type": {
+            "type1": 6,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/63.png",
+        "status": {
+            "HP": "65",
+            "攻撃": "60",
+            "防御": "110",
+            "特攻": "130",
+            "特防": "95",
+            "素早": "65",
+            "合計": "525"
+        }
+    },
+    "ニンフィア": {
+        "number": "No.187",
+        "name": "ニンフィア",
+        "type": {
+            "type1": 18,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/64.png",
+        "status": {
+            "HP": "95",
+            "攻撃": "65",
+            "防御": "65",
+            "特攻": "110",
+            "特防": "130",
+            "素早": "60",
+            "合計": "525"
+        }
+    },
+    "ノコッチ": {
+        "number": "No.188",
+        "name": "ノコッチ",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/232.png",
+        "status": {
+            "HP": "100",
+            "攻撃": "70",
+            "防御": "70",
+            "特攻": "65",
+            "特防": "65",
+            "素早": "45",
+            "合計": "415"
+        }
+    },
+    "ノココッチ": {
+        "number": "No.189",
+        "name": "ノココッチ",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/303.png",
+        "status": {
+            "HP": "125",
+            "攻撃": "100",
+            "防御": "80",
+            "特攻": "85",
+            "特防": "75",
+            "素早": "55",
+            "合計": "520"
+        }
+    },
+    "シキジカ": {
+        "number": "No.190",
+        "name": "シキジカ",
+        "type": {
+            "type1": 1,
+            "type2": 5
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/193.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "60",
+            "防御": "50",
+            "特攻": "40",
+            "特防": "50",
+            "素早": "75",
+            "合計": "335"
+        }
+    },
+    "メブキジカ": {
+        "number": "No.191",
+        "name": "メブキジカ",
+        "type": {
+            "type1": 1,
+            "type2": 5
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/194.png",
+        "status": {
+            "HP": "80",
+            "攻撃": "100",
+            "防御": "70",
+            "特攻": "60",
+            "特防": "70",
+            "素早": "95",
+            "合計": "475"
+        }
+    },
+    "キリンリキ": {
+        "number": "No.192",
+        "name": "キリンリキ",
+        "type": {
+            "type1": 1,
+            "type2": 11
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/155.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "80",
+            "防御": "65",
+            "特攻": "90",
+            "特防": "65",
+            "素早": "85",
+            "合計": "455"
+        }
+    },
+    "リキキリン": {
+        "number": "No.193",
+        "name": "リキキリン",
+        "type": {
+            "type1": 1,
+            "type2": 11
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/416.png",
+        "status": {
+            "HP": "120",
+            "攻撃": "90",
+            "防御": "70",
+            "特攻": "110",
+            "特防": "70",
+            "素早": "60",
+            "合計": "520"
+        }
+    },
+    "ベトベター": {
+        "number": "No.194",
+        "name": "ベトベター",
+        "type": {
+            "type1": 8,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/135.png",
+        "status": {
+            "HP": "80",
+            "攻撃": "80",
+            "防御": "50",
+            "特攻": "40",
+            "特防": "50",
+            "素早": "25",
+            "合計": "325"
+        }
+    },
+    "ベトベトン": {
+        "number": "No.195",
+        "name": "ベトベトン",
+        "type": {
+            "type1": 8,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/136.png",
+        "status": {
+            "HP": "105",
+            "攻撃": "105",
+            "防御": "75",
+            "特攻": "65",
+            "特防": "100",
+            "素早": "50",
+            "合計": "500"
+        }
+    },
+    "オラチフ": {
+        "number": "No.196",
+        "name": "オラチフ",
+        "type": {
+            "type1": 16,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/304.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "78",
+            "防御": "60",
+            "特攻": "40",
+            "特防": "51",
+            "素早": "51",
+            "合計": "340"
+        }
+    },
+    "マフィティフ": {
+        "number": "No.197",
+        "name": "マフィティフ",
+        "type": {
+            "type1": 16,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/305.png",
+        "status": {
+            "HP": "80",
+            "攻撃": "120",
+            "防御": "90",
+            "特攻": "60",
+            "特防": "70",
+            "素早": "85",
+            "合計": "505"
+        }
+    },
+    "エレズン": {
+        "number": "No.198",
+        "name": "エレズン",
+        "type": {
+            "type1": 4,
+            "type2": 8
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/85.png",
+        "status": {
+            "HP": "40",
+            "攻撃": "38",
+            "防御": "35",
+            "特攻": "54",
+            "特防": "35",
+            "素早": "40",
+            "合計": "242"
+        }
+    },
+    "ストリンダー": {
+        "number": "No.199",
+        "name": "ストリンダー",
+        "type": {
+            "type1": 4,
+            "type2": 8
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/87.png",
+        "status": {
+            "HP": "75",
+            "攻撃": "98",
+            "防御": "70",
+            "特攻": "114",
+            "特防": "70",
+            "素早": "75",
+            "合計": "502"
+        }
+    },
+    "デデンネ": {
+        "number": "No.200",
+        "name": "デデンネ",
+        "type": {
+            "type1": 4,
+            "type2": 18
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/306.png",
+        "status": {
+            "HP": "67",
+            "攻撃": "58",
+            "防御": "57",
+            "特攻": "81",
+            "特防": "67",
+            "素早": "101",
+            "合計": "431"
+        }
+    },
+    "パチリス": {
+        "number": "No.201",
+        "name": "パチリス",
+        "type": {
+            "type1": 4,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/188.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "45",
+            "防御": "70",
+            "特攻": "45",
+            "特防": "90",
+            "素早": "95",
+            "合計": "405"
+        }
+    },
+    "シルシュルー": {
+        "number": "No.202",
+        "name": "シルシュルー",
+        "type": {
+            "type1": 8,
+            "type2": 1
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/307.png",
+        "status": {
+            "HP": "40",
+            "攻撃": "65",
+            "防御": "35",
+            "特攻": "40",
+            "特防": "35",
+            "素早": "75",
+            "合計": "290"
+        }
+    },
+    "タギングル": {
+        "number": "No.203",
+        "name": "タギングル",
+        "type": {
+            "type1": 8,
+            "type2": 1
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/308.png",
+        "status": {
+            "HP": "63",
+            "攻撃": "95",
+            "防御": "65",
+            "特攻": "80",
+            "特防": "72",
+            "素早": "110",
+            "合計": "485"
+        }
+    },
+    "オドシシ": {
+        "number": "No.204",
+        "name": "オドシシ",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/309.png",
+        "status": {
+            "HP": "73",
+            "攻撃": "95",
+            "防御": "62",
+            "特攻": "85",
+            "特防": "65",
+            "素早": "85",
+            "合計": "465"
+        }
+    },
+    "タマゲタケ": {
+        "number": "No.205",
+        "name": "タマゲタケ",
+        "type": {
+            "type1": 5,
+            "type2": 8
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/310.png",
+        "status": {
+            "HP": "69",
+            "攻撃": "55",
+            "防御": "45",
+            "特攻": "55",
+            "特防": "55",
+            "素早": "15",
+            "合計": "294"
+        }
+    },
+    "モロバレル": {
+        "number": "No.206",
+        "name": "モロバレル",
+        "type": {
+            "type1": 5,
+            "type2": 8
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/311.png",
+        "status": {
+            "HP": "114",
+            "攻撃": "85",
+            "防御": "70",
+            "特攻": "85",
+            "特防": "80",
+            "素早": "30",
+            "合計": "464"
+        }
+    },
+    "ビリリダマ": {
+        "number": "No.207",
+        "name": "ビリリダマ",
+        "type": {
+            "type1": 4,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/312.png",
+        "status": {
+            "HP": "40",
+            "攻撃": "30",
+            "防御": "50",
+            "特攻": "55",
+            "特防": "55",
+            "素早": "100",
+            "合計": "330"
+        }
+    },
+    "マルマイン": {
+        "number": "No.208",
+        "name": "マルマイン",
+        "type": {
+            "type1": 4,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/313.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "50",
+            "防御": "70",
+            "特攻": "80",
+            "特防": "80",
+            "素早": "150",
+            "合計": "490"
+        }
+    },
+    "コイル": {
+        "number": "No.209",
+        "name": "コイル",
+        "type": {
+            "type1": 4,
+            "type2": 17
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/127.png",
+        "status": {
+            "HP": "25",
+            "攻撃": "35",
+            "防御": "70",
+            "特攻": "95",
+            "特防": "55",
+            "素早": "45",
+            "合計": "325"
+        }
+    },
+    "レアコイル": {
+        "number": "No.210",
+        "name": "レアコイル",
+        "type": {
+            "type1": 4,
+            "type2": 17
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/123.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "60",
+            "防御": "95",
+            "特攻": "120",
+            "特防": "70",
+            "素早": "70",
+            "合計": "465"
+        }
+    },
+    "ジバコイル": {
+        "number": "No.211",
+        "name": "ジバコイル",
+        "type": {
+            "type1": 4,
+            "type2": 17
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/121.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "70",
+            "防御": "115",
+            "特攻": "130",
+            "特防": "90",
+            "素早": "60",
+            "合計": "535"
+        }
+    },
+    "メタモン": {
+        "number": "No.212",
+        "name": "メタモン",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/314.png",
+        "status": {
+            "HP": "48",
+            "攻撃": "48",
+            "防御": "48",
+            "特攻": "48",
+            "特防": "48",
+            "素早": "48",
+            "合計": "288"
+        }
+    },
+    "ガーディ": {
+        "number": "No.213",
+        "name": "ガーディ",
+        "type": {
+            "type1": 2,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/16.png",
+        "status": {
+            "HP": "55",
+            "攻撃": "70",
+            "防御": "45",
+            "特攻": "70",
+            "特防": "50",
+            "素早": "60",
+            "合計": "350"
+        }
+    },
+    "ウインディ": {
+        "number": "No.214",
+        "name": "ウインディ",
+        "type": {
+            "type1": 2,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/17.png",
+        "status": {
+            "HP": "90",
+            "攻撃": "110",
+            "防御": "80",
+            "特攻": "100",
+            "特防": "80",
+            "素早": "95",
+            "合計": "555"
+        }
+    },
+    "ヒメグマ": {
+        "number": "No.215",
+        "name": "ヒメグマ",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/158.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "80",
+            "防御": "50",
+            "特攻": "50",
+            "特防": "50",
+            "素早": "40",
+            "合計": "330"
+        }
+    },
+    "リングマ": {
+        "number": "No.216",
+        "name": "リングマ",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/159.png",
+        "status": {
+            "HP": "90",
+            "攻撃": "130",
+            "防御": "75",
+            "特攻": "75",
+            "特防": "75",
+            "素早": "55",
+            "合計": "500"
+        }
+    },
+    "ザングース": {
+        "number": "No.217",
+        "name": "ザングース",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/180.png",
+        "status": {
+            "HP": "73",
+            "攻撃": "115",
+            "防御": "60",
+            "特攻": "60",
+            "特防": "60",
+            "素早": "90",
+            "合計": "458"
+        }
+    },
+    "ハブネーク": {
+        "number": "No.218",
+        "name": "ハブネーク",
+        "type": {
+            "type1": 8,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/181.png",
+        "status": {
+            "HP": "73",
+            "攻撃": "100",
+            "防御": "60",
+            "特攻": "100",
+            "特防": "60",
+            "素早": "65",
+            "合計": "458"
+        }
+    },
+    "チルット": {
+        "number": "No.219",
+        "name": "チルット",
+        "type": {
+            "type1": 1,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/178.png",
+        "status": {
+            "HP": "45",
+            "攻撃": "40",
+            "防御": "60",
+            "特攻": "40",
+            "特防": "75",
+            "素早": "50",
+            "合計": "310"
+        }
+    },
+    "チルタリス": {
+        "number": "No.220",
+        "name": "チルタリス",
+        "type": {
+            "type1": 15,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/179.png",
+        "status": {
+            "HP": "75",
+            "攻撃": "70",
+            "防御": "90",
+            "特攻": "70",
+            "特防": "105",
+            "素早": "80",
+            "合計": "490"
+        }
+    },
+    "メェークル": {
+        "number": "No.221",
+        "name": "メェークル",
+        "type": {
+            "type1": 5,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/207.png",
+        "status": {
+            "HP": "66",
+            "攻撃": "65",
+            "防御": "48",
+            "特攻": "62",
+            "特防": "57",
+            "素早": "52",
+            "合計": "350"
+        }
+    },
+    "ゴーゴート": {
+        "number": "No.222",
+        "name": "ゴーゴート",
+        "type": {
+            "type1": 5,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/208.png",
+        "status": {
+            "HP": "123",
+            "攻撃": "100",
+            "防御": "62",
+            "特攻": "97",
+            "特防": "81",
+            "素早": "68",
+            "合計": "531"
+        }
+    },
+    "ケンタロス": {
+        "number": "No.223",
+        "name": "ケンタロス",
+        "type": {
+            "type1": 7,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/315.png",
+        "status": {
+            "HP": "75",
+            "攻撃": "110",
+            "防御": "105",
+            "特攻": "30",
+            "特防": "70",
+            "素早": "100",
+            "合計": "490"
+        }
+    },
+    "ケンタロス(炎)": {
+        "number": "No.223",
+        "name": "ケンタロス(炎)",
+        "type": {
+            "type1": 7,
+            "type2": 2
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/436.png",
+        "status": {
+            "HP": "75",
+            "攻撃": "110",
+            "防御": "105",
+            "特攻": "30",
+            "特防": "70",
+            "素早": "100",
+            "合計": "490"
+        }
+    },
+    "ケンタロス(水)": {
+        "number": "No.223",
+        "name": "ケンタロス(水)",
+        "type": {
+            "type1": 7,
+            "type2": 3
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/437.png",
+        "status": {
+            "HP": "75",
+            "攻撃": "110",
+            "防御": "105",
+            "特攻": "30",
+            "特防": "70",
+            "素早": "100",
+            "合計": "490"
+        }
+    },
+    "シシコ": {
+        "number": "No.224",
+        "name": "シシコ",
+        "type": {
+            "type1": 2,
+            "type2": 1
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/209.png",
+        "status": {
+            "HP": "62",
+            "攻撃": "50",
+            "防御": "58",
+            "特攻": "73",
+            "特防": "54",
+            "素早": "72",
+            "合計": "369"
+        }
+    },
+    "カエンジシ": {
+        "number": "No.225",
+        "name": "カエンジシ",
+        "type": {
+            "type1": 2,
+            "type2": 1
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/210.png",
+        "status": {
+            "HP": "86",
+            "攻撃": "68",
+            "防御": "72",
+            "特攻": "109",
+            "特防": "66",
+            "素早": "106",
+            "合計": "507"
+        }
+    },
+    "スカンプー": {
+        "number": "No.226",
+        "name": "スカンプー",
+        "type": {
+            "type1": 8,
+            "type2": 16
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/316.png",
+        "status": {
+            "HP": "63",
+            "攻撃": "63",
+            "防御": "47",
+            "特攻": "41",
+            "特防": "41",
+            "素早": "74",
+            "合計": "329"
+        }
+    },
+    "スカタンク": {
+        "number": "No.227",
+        "name": "スカタンク",
+        "type": {
+            "type1": 8,
+            "type2": 16
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/317.png",
+        "status": {
+            "HP": "103",
+            "攻撃": "93",
+            "防御": "67",
+            "特攻": "71",
+            "特防": "61",
+            "素早": "84",
+            "合計": "479"
+        }
+    },
+    "ゾロア": {
+        "number": "No.228",
+        "name": "ゾロア",
+        "type": {
+            "type1": 16,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/218.png",
+        "status": {
+            "HP": "40",
+            "攻撃": "65",
+            "防御": "40",
+            "特攻": "80",
+            "特防": "40",
+            "素早": "65",
+            "合計": "330"
+        }
+    },
+    "ゾロアーク": {
+        "number": "No.229",
+        "name": "ゾロアーク",
+        "type": {
+            "type1": 16,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/219.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "105",
+            "防御": "60",
+            "特攻": "120",
+            "特防": "60",
+            "素早": "105",
+            "合計": "510"
+        }
+    },
+    "ニューラ": {
+        "number": "No.230",
+        "name": "ニューラ",
+        "type": {
+            "type1": 16,
+            "type2": 6
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/75.png",
+        "status": {
+            "HP": "55",
+            "攻撃": "95",
+            "防御": "55",
+            "特攻": "35",
+            "特防": "75",
+            "素早": "115",
+            "合計": "430"
+        }
+    },
+    "マニューラ": {
+        "number": "No.231",
+        "name": "マニューラ",
+        "type": {
+            "type1": 16,
+            "type2": 6
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/76.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "120",
+            "防御": "65",
+            "特攻": "45",
+            "特防": "85",
+            "素早": "125",
+            "合計": "510"
+        }
+    },
+    "ヤミカラス": {
+        "number": "No.232",
+        "name": "ヤミカラス",
+        "type": {
+            "type1": 16,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/153.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "85",
+            "防御": "42",
+            "特攻": "85",
+            "特防": "42",
+            "素早": "91",
+            "合計": "405"
+        }
+    },
+    "ドンカラス": {
+        "number": "No.233",
+        "name": "ドンカラス",
+        "type": {
+            "type1": 16,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/185.png",
+        "status": {
+            "HP": "100",
+            "攻撃": "125",
+            "防御": "52",
+            "特攻": "105",
+            "特防": "52",
+            "素早": "71",
+            "合計": "505"
+        }
+    },
+    "ゴチム": {
+        "number": "No.234",
+        "name": "ゴチム",
+        "type": {
+            "type1": 11,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/318.png",
+        "status": {
+            "HP": "45",
+            "攻撃": "30",
+            "防御": "50",
+            "特攻": "55",
+            "特防": "65",
+            "素早": "45",
+            "合計": "290"
+        }
+    },
+    "ゴチミル": {
+        "number": "No.235",
+        "name": "ゴチミル",
+        "type": {
+            "type1": 11,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/319.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "45",
+            "防御": "70",
+            "特攻": "75",
+            "特防": "85",
+            "素早": "55",
+            "合計": "390"
+        }
+    },
+    "ゴチルゼル": {
+        "number": "No.236",
+        "name": "ゴチルゼル",
+        "type": {
+            "type1": 11,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/320.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "55",
+            "防御": "95",
+            "特攻": "95",
+            "特防": "110",
+            "素早": "65",
+            "合計": "490"
+        }
+    },
+    "ヤバチャ": {
+        "number": "No.237",
+        "name": "ヤバチャ",
+        "type": {
+            "type1": 14,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/90.png",
+        "status": {
+            "HP": "40",
+            "攻撃": "45",
+            "防御": "45",
+            "特攻": "74",
+            "特防": "54",
+            "素早": "50",
+            "合計": "308"
+        }
+    },
+    "ポットデス": {
+        "number": "No.238",
+        "name": "ポットデス",
+        "type": {
+            "type1": 14,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/91.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "65",
+            "防御": "65",
+            "特攻": "134",
+            "特防": "114",
+            "素早": "70",
+            "合計": "508"
+        }
+    },
+    "ミミッキュ": {
+        "number": "No.239",
+        "name": "ミミッキュ",
+        "type": {
+            "type1": 14,
+            "type2": 18
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/236.png",
+        "status": {
+            "HP": "55",
+            "攻撃": "90",
+            "防御": "80",
+            "特攻": "50",
+            "特防": "105",
+            "素早": "96",
+            "合計": "476"
+        }
+    },
+    "クレッフィ": {
+        "number": "No.240",
+        "name": "クレッフィ",
+        "type": {
+            "type1": 17,
+            "type2": 18
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/321.png",
+        "status": {
+            "HP": "57",
+            "攻撃": "80",
+            "防御": "91",
+            "特攻": "80",
+            "特防": "87",
+            "素早": "75",
+            "合計": "470"
+        }
+    },
+    "イエッサン": {
+        "number": "No.241",
+        "name": "イエッサン",
+        "type": {
+            "type1": 11,
+            "type2": 1
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/425.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "65",
+            "防御": "55",
+            "特攻": "105",
+            "特防": "95",
+            "素早": "95",
+            "合計": "475"
+        }
+    },
+    "アノクサ": {
+        "number": "No.242",
+        "name": "アノクサ",
+        "type": {
+            "type1": 5,
+            "type2": 14
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/323.png",
+        "status": {
+            "HP": "40",
+            "攻撃": "65",
+            "防御": "30",
+            "特攻": "45",
+            "特防": "35",
+            "素早": "60",
+            "合計": "275"
+        }
+    },
+    "アノホラグサ": {
+        "number": "No.243",
+        "name": "アノホラグサ",
+        "type": {
+            "type1": 5,
+            "type2": 14
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/324.png",
+        "status": {
+            "HP": "55",
+            "攻撃": "115",
+            "防御": "70",
+            "特攻": "80",
+            "特防": "70",
+            "素早": "90",
+            "合計": "480"
+        }
+    },
+    "ノノクラゲ": {
+        "number": "No.244",
+        "name": "ノノクラゲ",
+        "type": {
+            "type1": 9,
+            "type2": 5
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/325.png",
+        "status": {
+            "HP": "40",
+            "攻撃": "40",
+            "防御": "35",
+            "特攻": "50",
+            "特防": "100",
+            "素早": "70",
+            "合計": "335"
+        }
+    },
+    "リククラゲ": {
+        "number": "No.245",
+        "name": "リククラゲ",
+        "type": {
+            "type1": 9,
+            "type2": 5
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/326.png",
+        "status": {
+            "HP": "80",
+            "攻撃": "70",
+            "防御": "65",
+            "特攻": "80",
+            "特防": "120",
+            "素早": "100",
+            "合計": "515"
+        }
+    },
+    "トロピウス": {
+        "number": "No.246",
+        "name": "トロピウス",
+        "type": {
+            "type1": 5,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/182.png",
+        "status": {
+            "HP": "99",
+            "攻撃": "68",
+            "防御": "83",
+            "特攻": "72",
+            "特防": "87",
+            "素早": "51",
+            "合計": "460"
+        }
+    },
+    "カリキリ": {
+        "number": "No.247",
+        "name": "カリキリ",
+        "type": {
+            "type1": 5,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/215.png",
+        "status": {
+            "HP": "40",
+            "攻撃": "55",
+            "防御": "35",
+            "特攻": "50",
+            "特防": "35",
+            "素早": "35",
+            "合計": "250"
+        }
+    },
+    "ラランテス": {
+        "number": "No.248",
+        "name": "ラランテス",
+        "type": {
+            "type1": 5,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/216.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "105",
+            "防御": "90",
+            "特攻": "80",
+            "特防": "90",
+            "素早": "45",
+            "合計": "480"
+        }
+    },
+    "ガケガニ": {
+        "number": "No.249",
+        "name": "ガケガニ",
+        "type": {
+            "type1": 13,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/327.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "110",
+            "防御": "115",
+            "特攻": "35",
+            "特防": "55",
+            "素早": "75",
+            "合計": "460"
+        }
+    },
+    "カプサイジ": {
+        "number": "No.250",
+        "name": "カプサイジ",
+        "type": {
+            "type1": 5,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/328.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "62",
+            "防御": "40",
+            "特攻": "62",
+            "特防": "40",
+            "素早": "50",
+            "合計": "304"
+        }
+    },
+    "スコヴィラン": {
+        "number": "No.251",
+        "name": "スコヴィラン",
+        "type": {
+            "type1": 5,
+            "type2": 2
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/329.png",
+        "status": {
+            "HP": "65",
+            "攻撃": "108",
+            "防御": "65",
+            "特攻": "108",
+            "特防": "65",
+            "素早": "75",
+            "合計": "486"
+        }
+    },
+    "サボネア": {
+        "number": "No.252",
+        "name": "サボネア",
+        "type": {
+            "type1": 5,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/176.png",
+        "status": {
+            "HP": "55",
+            "攻撃": "85",
+            "防御": "40",
+            "特攻": "85",
+            "特防": "40",
+            "素早": "35",
+            "合計": "340"
+        }
+    },
+    "ノクタス": {
+        "number": "No.253",
+        "name": "ノクタス",
+        "type": {
+            "type1": 5,
+            "type2": 16
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/177.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "115",
+            "防御": "60",
+            "特攻": "115",
+            "特防": "60",
+            "素早": "55",
+            "合計": "475"
+        }
+    },
+    "シガロコ": {
+        "number": "No.254",
+        "name": "シガロコ",
+        "type": {
+            "type1": 12,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/330.png",
+        "status": {
+            "HP": "41",
+            "攻撃": "50",
+            "防御": "60",
+            "特攻": "31",
+            "特防": "58",
+            "素早": "30",
+            "合計": "270"
+        }
+    },
+    "ベラカス": {
+        "number": "No.255",
+        "name": "ベラカス",
+        "type": {
+            "type1": 12,
+            "type2": 11
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/331.png",
+        "status": {
+            "HP": "75",
+            "攻撃": "50",
+            "防御": "85",
+            "特攻": "115",
+            "特防": "110",
+            "素早": "45",
+            "合計": "480"
+        }
+    },
+    "コンパン": {
+        "number": "No.256",
+        "name": "コンパン",
+        "type": {
+            "type1": 12,
+            "type2": 8
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/137.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "55",
+            "防御": "50",
+            "特攻": "40",
+            "特防": "55",
+            "素早": "45",
+            "合計": "305"
+        }
+    },
+    "モルフォン": {
+        "number": "No.257",
+        "name": "モルフォン",
+        "type": {
+            "type1": 12,
+            "type2": 8
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/138.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "65",
+            "防御": "60",
+            "特攻": "90",
+            "特防": "75",
+            "素早": "90",
+            "合計": "450"
+        }
+    },
+    "クヌギダマ": {
+        "number": "No.258",
+        "name": "クヌギダマ",
+        "type": {
+            "type1": 12,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/156.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "65",
+            "防御": "90",
+            "特攻": "35",
+            "特防": "35",
+            "素早": "15",
+            "合計": "290"
+        }
+    },
+    "フォレトス": {
+        "number": "No.259",
+        "name": "フォレトス",
+        "type": {
+            "type1": 12,
+            "type2": 17
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/157.png",
+        "status": {
+            "HP": "75",
+            "攻撃": "90",
+            "防御": "140",
+            "特攻": "60",
+            "特防": "60",
+            "素早": "40",
+            "合計": "465"
+        }
+    },
+    "ストライク": {
+        "number": "No.260",
+        "name": "ストライク",
+        "type": {
+            "type1": 10,
+            "type2": 12
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/112.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "110",
+            "防御": "80",
+            "特攻": "55",
+            "特防": "80",
+            "素早": "105",
+            "合計": "500"
+        }
+    },
+    "ハッサム": {
+        "number": "No.261",
+        "name": "ハッサム",
+        "type": {
+            "type1": 12,
+            "type2": 17
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/109.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "130",
+            "防御": "100",
+            "特攻": "55",
+            "特防": "80",
+            "素早": "65",
+            "合計": "500"
+        }
+    },
+    "ヘラクロス": {
+        "number": "No.262",
+        "name": "ヘラクロス",
+        "type": {
+            "type1": 12,
+            "type2": 7
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/417.png",
+        "status": {
+            "HP": "80",
+            "攻撃": "125",
+            "防御": "75",
+            "特攻": "40",
+            "特防": "95",
+            "素早": "85",
+            "合計": "500"
+        }
+    },
+    "ヒラヒナ": {
+        "number": "No.263",
+        "name": "ヒラヒナ",
+        "type": {
+            "type1": 11,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/332.png",
+        "status": {
+            "HP": "30",
+            "攻撃": "35",
+            "防御": "30",
+            "特攻": "55",
+            "特防": "50",
+            "素早": "75",
+            "合計": "275"
+        }
+    },
+    "クエスパトラ": {
+        "number": "No.264",
+        "name": "クエスパトラ",
+        "type": {
+            "type1": 11,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/333.png",
+        "status": {
+            "HP": "95",
+            "攻撃": "60",
+            "防御": "60",
+            "特攻": "101",
+            "特防": "60",
+            "素早": "105",
+            "合計": "481"
+        }
+    },
+    "ヒポポタス": {
+        "number": "No.265",
+        "name": "ヒポポタス",
+        "type": {
+            "type1": 9,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/88.png",
+        "status": {
+            "HP": "68",
+            "攻撃": "72",
+            "防御": "78",
+            "特攻": "38",
+            "特防": "42",
+            "素早": "32",
+            "合計": "330"
+        }
+    },
+    "カバルドン": {
+        "number": "No.266",
+        "name": "カバルドン",
+        "type": {
+            "type1": 9,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/89.png",
+        "status": {
+            "HP": "108",
+            "攻撃": "112",
+            "防御": "118",
+            "特攻": "68",
+            "特防": "72",
+            "素早": "47",
+            "合計": "525"
+        }
+    },
+    "メグロコ": {
+        "number": "No.267",
+        "name": "メグロコ",
+        "type": {
+            "type1": 9,
+            "type2": 16
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/129.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "72",
+            "防御": "35",
+            "特攻": "35",
+            "特防": "35",
+            "素早": "65",
+            "合計": "292"
+        }
+    },
+    "ワルビル": {
+        "number": "No.268",
+        "name": "ワルビル",
+        "type": {
+            "type1": 9,
+            "type2": 16
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/124.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "82",
+            "防御": "45",
+            "特攻": "45",
+            "特防": "45",
+            "素早": "74",
+            "合計": "351"
+        }
+    },
+    "ワルビアル": {
+        "number": "No.269",
+        "name": "ワルビアル",
+        "type": {
+            "type1": 9,
+            "type2": 16
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/122.png",
+        "status": {
+            "HP": "95",
+            "攻撃": "117",
+            "防御": "80",
+            "特攻": "65",
+            "特防": "70",
+            "素早": "92",
+            "合計": "519"
+        }
+    },
+    "スナヘビ": {
+        "number": "No.270",
+        "name": "スナヘビ",
+        "type": {
+            "type1": 9,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/334.png",
+        "status": {
+            "HP": "52",
+            "攻撃": "57",
+            "防御": "75",
+            "特攻": "35",
+            "特防": "50",
+            "素早": "46",
+            "合計": "315"
+        }
+    },
+    "サダイジャ": {
+        "number": "No.271",
+        "name": "サダイジャ",
+        "type": {
+            "type1": 9,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/335.png",
+        "status": {
+            "HP": "72",
+            "攻撃": "107",
+            "防御": "125",
+            "特攻": "65",
+            "特防": "70",
+            "素早": "71",
+            "合計": "510"
+        }
+    },
+    "ドロバンコ": {
+        "number": "No.272",
+        "name": "ドロバンコ",
+        "type": {
+            "type1": 9,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/21.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "100",
+            "防御": "70",
+            "特攻": "45",
+            "特防": "55",
+            "素早": "45",
+            "合計": "385"
+        }
+    },
+    "バンバドロ": {
+        "number": "No.273",
+        "name": "バンバドロ",
+        "type": {
+            "type1": 9,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/22.png",
+        "status": {
+            "HP": "100",
+            "攻撃": "125",
+            "防御": "100",
+            "特攻": "55",
+            "特防": "85",
+            "素早": "35",
+            "合計": "500"
+        }
+    },
+    "メラルバ": {
+        "number": "No.274",
+        "name": "メラルバ",
+        "type": {
+            "type1": 12,
+            "type2": 2
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/336.png",
+        "status": {
+            "HP": "55",
+            "攻撃": "85",
+            "防御": "55",
+            "特攻": "50",
+            "特防": "55",
+            "素早": "60",
+            "合計": "360"
+        }
+    },
+    "ウルガモス": {
+        "number": "No.275",
+        "name": "ウルガモス",
+        "type": {
+            "type1": 12,
+            "type2": 2
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/337.png",
+        "status": {
+            "HP": "85",
+            "攻撃": "60",
+            "防御": "65",
+            "特攻": "135",
+            "特防": "105",
+            "素早": "100",
+            "合計": "550"
+        }
+    },
+    "タツベイ": {
+        "number": "No.276",
+        "name": "タツベイ",
+        "type": {
+            "type1": 15,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/164.png",
+        "status": {
+            "HP": "45",
+            "攻撃": "75",
+            "防御": "60",
+            "特攻": "40",
+            "特防": "30",
+            "素早": "50",
+            "合計": "300"
+        }
+    },
+    "コモルー": {
+        "number": "No.277",
+        "name": "コモルー",
+        "type": {
+            "type1": 15,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/165.png",
+        "status": {
+            "HP": "65",
+            "攻撃": "95",
+            "防御": "100",
+            "特攻": "60",
+            "特防": "50",
+            "素早": "50",
+            "合計": "420"
+        }
+    },
+    "ボーマンダ": {
+        "number": "No.278",
+        "name": "ボーマンダ",
+        "type": {
+            "type1": 15,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/166.png",
+        "status": {
+            "HP": "95",
+            "攻撃": "135",
+            "防御": "80",
+            "特攻": "110",
+            "特防": "80",
+            "素早": "100",
+            "合計": "600"
+        }
+    },
+    "カヌチャン": {
+        "number": "No.279",
+        "name": "カヌチャン",
+        "type": {
+            "type1": 18,
+            "type2": 17
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/338.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "45",
+            "防御": "45",
+            "特攻": "35",
+            "特防": "64",
+            "素早": "58",
+            "合計": "297"
+        }
+    },
+    "ナカヌチャン": {
+        "number": "No.280",
+        "name": "ナカヌチャン",
+        "type": {
+            "type1": 18,
+            "type2": 17
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/339.png",
+        "status": {
+            "HP": "65",
+            "攻撃": "55",
+            "防御": "55",
+            "特攻": "45",
+            "特防": "82",
+            "素早": "78",
+            "合計": "380"
+        }
+    },
+    "デカヌチャン": {
+        "number": "No.281",
+        "name": "デカヌチャン",
+        "type": {
+            "type1": 18,
+            "type2": 17
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/340.png",
+        "status": {
+            "HP": "85",
+            "攻撃": "75",
+            "防御": "77",
+            "特攻": "70",
+            "特防": "105",
+            "素早": "94",
+            "合計": "506"
+        }
+    },
+    "ミブリム": {
+        "number": "No.282",
+        "name": "ミブリム",
+        "type": {
+            "type1": 11,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/68.png",
+        "status": {
+            "HP": "42",
+            "攻撃": "30",
+            "防御": "45",
+            "特攻": "56",
+            "特防": "53",
+            "素早": "39",
+            "合計": "265"
+        }
+    },
+    "テブリム": {
+        "number": "No.283",
+        "name": "テブリム",
+        "type": {
+            "type1": 11,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/69.png",
+        "status": {
+            "HP": "57",
+            "攻撃": "40",
+            "防御": "65",
+            "特攻": "86",
+            "特防": "73",
+            "素早": "49",
+            "合計": "370"
+        }
+    },
+    "ブリムオン": {
+        "number": "No.284",
+        "name": "ブリムオン",
+        "type": {
+            "type1": 11,
+            "type2": 18
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/70.png",
+        "status": {
+            "HP": "57",
+            "攻撃": "90",
+            "防御": "95",
+            "特攻": "136",
+            "特防": "103",
+            "素早": "29",
+            "合計": "510"
+        }
+    },
+    "ベロバー": {
+        "number": "No.285",
+        "name": "ベロバー",
+        "type": {
+            "type1": 16,
+            "type2": 18
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/341.png",
+        "status": {
+            "HP": "45",
+            "攻撃": "45",
+            "防御": "30",
+            "特攻": "55",
+            "特防": "40",
+            "素早": "50",
+            "合計": "265"
+        }
+    },
+    "ギモー": {
+        "number": "No.286",
+        "name": "ギモー",
+        "type": {
+            "type1": 16,
+            "type2": 18
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/342.png",
+        "status": {
+            "HP": "65",
+            "攻撃": "60",
+            "防御": "45",
+            "特攻": "75",
+            "特防": "55",
+            "素早": "70",
+            "合計": "370"
+        }
+    },
+    "オーロンゲ": {
+        "number": "No.287",
+        "name": "オーロンゲ",
+        "type": {
+            "type1": 16,
+            "type2": 18
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/343.png",
+        "status": {
+            "HP": "95",
+            "攻撃": "120",
+            "防御": "65",
+            "特攻": "95",
+            "特防": "75",
+            "素早": "60",
+            "合計": "510"
+        }
+    },
+    "ウミディグダ": {
+        "number": "No.288",
+        "name": "ウミディグダ",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/344.png",
+        "status": {
+            "HP": "10",
+            "攻撃": "55",
+            "防御": "25",
+            "特攻": "35",
+            "特防": "25",
+            "素早": "95",
+            "合計": "245"
+        }
+    },
+    "ウミトリオ": {
+        "number": "No.289",
+        "name": "ウミトリオ",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/345.png",
+        "status": {
+            "HP": "35",
+            "攻撃": "100",
+            "防御": "50",
+            "特攻": "50",
+            "特防": "70",
+            "素早": "120",
+            "合計": "425"
+        }
+    },
+    "オトシドリ": {
+        "number": "No.290",
+        "name": "オトシドリ",
+        "type": {
+            "type1": 10,
+            "type2": 16
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/346.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "103",
+            "防御": "85",
+            "特攻": "60",
+            "特防": "85",
+            "素早": "82",
+            "合計": "485"
+        }
+    },
+    "ナミイルカ": {
+        "number": "No.291",
+        "name": "ナミイルカ",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/347.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "45",
+            "防御": "40",
+            "特攻": "45",
+            "特防": "40",
+            "素早": "75",
+            "合計": "315"
+        }
+    },
+    "イルカマン": {
+        "number": "No.292",
+        "name": "イルカマン",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/433.png",
+        "status": {
+            "HP": "100",
+            "攻撃": "160",
+            "防御": "97",
+            "特攻": "106",
+            "特防": "87",
+            "素早": "100",
+            "合計": "650"
+        }
+    },
+    "ブロロン": {
+        "number": "No.293",
+        "name": "ブロロン",
+        "type": {
+            "type1": 17,
+            "type2": 8
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/349.png",
+        "status": {
+            "HP": "45",
+            "攻撃": "70",
+            "防御": "63",
+            "特攻": "30",
+            "特防": "45",
+            "素早": "47",
+            "合計": "300"
+        }
+    },
+    "ブロロローム": {
+        "number": "No.294",
+        "name": "ブロロローム",
+        "type": {
+            "type1": 17,
+            "type2": 8
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/350.png",
+        "status": {
+            "HP": "80",
+            "攻撃": "119",
+            "防御": "90",
+            "特攻": "54",
+            "特防": "67",
+            "素早": "90",
+            "合計": "500"
+        }
+    },
+    "モトトカゲ": {
+        "number": "No.295",
+        "name": "モトトカゲ",
+        "type": {
+            "type1": 15,
+            "type2": 1
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/351.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "95",
+            "防御": "65",
+            "特攻": "85",
+            "特防": "65",
+            "素早": "121",
+            "合計": "501"
+        }
+    },
+    "ミミズズ": {
+        "number": "No.296",
+        "name": "ミミズズ",
+        "type": {
+            "type1": 17,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/352.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "85",
+            "防御": "145",
+            "特攻": "60",
+            "特防": "55",
+            "素早": "65",
+            "合計": "480"
+        }
+    },
+    "ヤミラミ": {
+        "number": "No.297",
+        "name": "ヤミラミ",
+        "type": {
+            "type1": 16,
+            "type2": 14
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/77.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "75",
+            "防御": "75",
+            "特攻": "65",
+            "特防": "65",
+            "素早": "50",
+            "合計": "380"
+        }
+    },
+    "カゲボウズ": {
+        "number": "No.298",
+        "name": "カゲボウズ",
+        "type": {
+            "type1": 14,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/353.png",
+        "status": {
+            "HP": "44",
+            "攻撃": "75",
+            "防御": "35",
+            "特攻": "63",
+            "特防": "33",
+            "素早": "45",
+            "合計": "295"
+        }
+    },
+    "ジュペッタ": {
+        "number": "No.299",
+        "name": "ジュペッタ",
+        "type": {
+            "type1": 14,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/354.png",
+        "status": {
+            "HP": "64",
+            "攻撃": "115",
+            "防御": "65",
+            "特攻": "83",
+            "特防": "63",
+            "素早": "65",
+            "合計": "455"
+        }
+    },
+    "タイレーツ": {
+        "number": "No.300",
+        "name": "タイレーツ",
+        "type": {
+            "type1": 7,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/355.png",
+        "status": {
+            "HP": "65",
+            "攻撃": "100",
+            "防御": "100",
+            "特攻": "70",
+            "特防": "60",
+            "素早": "75",
+            "合計": "470"
+        }
+    },
+    "ルチャブル": {
+        "number": "No.301",
+        "name": "ルチャブル",
+        "type": {
+            "type1": 7,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/356.png",
+        "status": {
+            "HP": "78",
+            "攻撃": "92",
+            "防御": "75",
+            "特攻": "74",
+            "特防": "63",
+            "素早": "118",
+            "合計": "500"
+        }
+    },
+    "ミカルゲ": {
+        "number": "No.302",
+        "name": "ミカルゲ",
+        "type": {
+            "type1": 14,
+            "type2": 16
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/357.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "92",
+            "防御": "108",
+            "特攻": "92",
+            "特防": "108",
+            "素早": "35",
+            "合計": "485"
+        }
+    },
+    "オンバット": {
+        "number": "No.303",
+        "name": "オンバット",
+        "type": {
+            "type1": 10,
+            "type2": 15
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/49.png",
+        "status": {
+            "HP": "40",
+            "攻撃": "30",
+            "防御": "35",
+            "特攻": "45",
+            "特防": "40",
+            "素早": "55",
+            "合計": "245"
+        }
+    },
+    "オンバーン": {
+        "number": "No.304",
+        "name": "オンバーン",
+        "type": {
+            "type1": 10,
+            "type2": 15
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/50.png",
+        "status": {
+            "HP": "85",
+            "攻撃": "70",
+            "防御": "80",
+            "特攻": "97",
+            "特防": "80",
+            "素早": "123",
+            "合計": "535"
+        }
+    },
+    "ドラメシヤ": {
+        "number": "No.305",
+        "name": "ドラメシヤ",
+        "type": {
+            "type1": 15,
+            "type2": 14
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/358.png",
+        "status": {
+            "HP": "28",
+            "攻撃": "60",
+            "防御": "30",
+            "特攻": "40",
+            "特防": "30",
+            "素早": "82",
+            "合計": "270"
+        }
+    },
+    "ドロンチ": {
+        "number": "No.306",
+        "name": "ドロンチ",
+        "type": {
+            "type1": 15,
+            "type2": 14
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/359.png",
+        "status": {
+            "HP": "68",
+            "攻撃": "80",
+            "防御": "50",
+            "特攻": "60",
+            "特防": "50",
+            "素早": "102",
+            "合計": "410"
+        }
+    },
+    "ドラパルト": {
+        "number": "No.307",
+        "name": "ドラパルト",
+        "type": {
+            "type1": 15,
+            "type2": 14
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/360.png",
+        "status": {
+            "HP": "88",
+            "攻撃": "120",
+            "防御": "75",
+            "特攻": "100",
+            "特防": "75",
+            "素早": "142",
+            "合計": "600"
+        }
+    },
+    "キラーメ": {
+        "number": "No.308",
+        "name": "キラーメ",
+        "type": {
+            "type1": 13,
+            "type2": 8
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/361.png",
+        "status": {
+            "HP": "48",
+            "攻撃": "35",
+            "防御": "42",
+            "特攻": "105",
+            "特防": "60",
+            "素早": "60",
+            "合計": "350"
+        }
+    },
+    "キラフロル": {
+        "number": "No.309",
+        "name": "キラフロル",
+        "type": {
+            "type1": 13,
+            "type2": 8
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/362.png",
+        "status": {
+            "HP": "83",
+            "攻撃": "55",
+            "防御": "90",
+            "特攻": "130",
+            "特防": "81",
+            "素早": "86",
+            "合計": "525"
+        }
+    },
+    "ロトム": {
+        "number": "No.310",
+        "name": "ロトム",
+        "type": {
+            "type1": 5,
+            "type2": 4
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/224.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "65",
+            "防御": "107",
+            "特攻": "105",
+            "特防": "107",
+            "素早": "86",
+            "合計": "520"
+        }
+    },
+    "ボチ": {
+        "number": "No.311",
+        "name": "ボチ",
+        "type": {
+            "type1": 14,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/363.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "61",
+            "防御": "60",
+            "特攻": "30",
+            "特防": "55",
+            "素早": "34",
+            "合計": "290"
+        }
+    },
+    "ハカドッグ": {
+        "number": "No.312",
+        "name": "ハカドッグ",
+        "type": {
+            "type1": 14,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/364.png",
+        "status": {
+            "HP": "72",
+            "攻撃": "101",
+            "防御": "100",
+            "特攻": "50",
+            "特防": "97",
+            "素早": "68",
+            "合計": "488"
+        }
+    },
+    "ヤレユータン": {
+        "number": "No.313",
+        "name": "ヤレユータン",
+        "type": {
+            "type1": 1,
+            "type2": 11
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/365.png",
+        "status": {
+            "HP": "90",
+            "攻撃": "60",
+            "防御": "80",
+            "特攻": "90",
+            "特防": "110",
+            "素早": "60",
+            "合計": "490"
+        }
+    },
+    "ナゲツケサル": {
+        "number": "No.314",
+        "name": "ナゲツケサル",
+        "type": {
+            "type1": 7,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/366.png",
+        "status": {
+            "HP": "100",
+            "攻撃": "120",
+            "防御": "90",
+            "特攻": "40",
+            "特防": "60",
+            "素早": "80",
+            "合計": "490"
+        }
+    },
+    "ネッコアラ": {
+        "number": "No.315",
+        "name": "ネッコアラ",
+        "type": {
+            "type1": 1,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/217.png",
+        "status": {
+            "HP": "65",
+            "攻撃": "115",
+            "防御": "65",
+            "特攻": "75",
+            "特防": "95",
+            "素早": "65",
+            "合計": "480"
+        }
+    },
+    "ヨーギラス": {
+        "number": "No.316",
+        "name": "ヨーギラス",
+        "type": {
+            "type1": 13,
+            "type2": 9
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/99.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "64",
+            "防御": "50",
+            "特攻": "45",
+            "特防": "50",
+            "素早": "41",
+            "合計": "300"
+        }
+    },
+    "サナギラス": {
+        "number": "No.317",
+        "name": "サナギラス",
+        "type": {
+            "type1": 13,
+            "type2": 9
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/100.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "84",
+            "防御": "70",
+            "特攻": "65",
+            "特防": "70",
+            "素早": "51",
+            "合計": "410"
+        }
+    },
+    "バンギラス": {
+        "number": "No.318",
+        "name": "バンギラス",
+        "type": {
+            "type1": 13,
+            "type2": 16
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/101.png",
+        "status": {
+            "HP": "100",
+            "攻撃": "134",
+            "防御": "110",
+            "特攻": "95",
+            "特防": "100",
+            "素早": "61",
+            "合計": "600"
+        }
+    },
+    "イシヘンジン": {
+        "number": "No.319",
+        "name": "イシヘンジン",
+        "type": {
+            "type1": 13,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/95.png",
+        "status": {
+            "HP": "100",
+            "攻撃": "125",
+            "防御": "135",
+            "特攻": "20",
+            "特防": "20",
+            "素早": "70",
+            "合計": "470"
+        }
+    },
+    "コオリッポ": {
+        "number": "No.320",
+        "name": "コオリッポ",
+        "type": {
+            "type1": 6,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/97.png",
+        "status": {
+            "HP": "75",
+            "攻撃": "50",
+            "防御": "110",
+            "特攻": "65",
+            "特防": "90",
+            "素早": "50",
+            "合計": "440"
+        }
+    },
+    "バチンウニ": {
+        "number": "No.321",
+        "name": "バチンウニ",
+        "type": {
+            "type1": 4,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/94.png",
+        "status": {
+            "HP": "48",
+            "攻撃": "101",
+            "防御": "95",
+            "特攻": "91",
+            "特防": "85",
+            "素早": "15",
+            "合計": "435"
+        }
+    },
+    "スナバァ": {
+        "number": "No.322",
+        "name": "スナバァ",
+        "type": {
+            "type1": 14,
+            "type2": 9
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/367.png",
+        "status": {
+            "HP": "55",
+            "攻撃": "55",
+            "防御": "80",
+            "特攻": "70",
+            "特防": "45",
+            "素早": "15",
+            "合計": "320"
+        }
+    },
+    "シロデスナ": {
+        "number": "No.323",
+        "name": "シロデスナ",
+        "type": {
+            "type1": 14,
+            "type2": 9
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/368.png",
+        "status": {
+            "HP": "85",
+            "攻撃": "75",
+            "防御": "110",
+            "特攻": "100",
+            "特防": "75",
+            "素早": "35",
+            "合計": "480"
+        }
+    },
+    "ヤドン": {
+        "number": "No.324",
+        "name": "ヤドン",
+        "type": {
+            "type1": 3,
+            "type2": 11
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/120.png",
+        "status": {
+            "HP": "90",
+            "攻撃": "65",
+            "防御": "65",
+            "特攻": "40",
+            "特防": "40",
+            "素早": "15",
+            "合計": "315"
+        }
+    },
+    "ヤドラン": {
+        "number": "No.325",
+        "name": "ヤドラン",
+        "type": {
+            "type1": 3,
+            "type2": 11
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/119.png",
+        "status": {
+            "HP": "95",
+            "攻撃": "75",
+            "防御": "110",
+            "特攻": "100",
+            "特防": "80",
+            "素早": "30",
+            "合計": "490"
+        }
+    },
+    "ヤドキング": {
+        "number": "No.326",
+        "name": "ヤドキング",
+        "type": {
+            "type1": 3,
+            "type2": 11
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/118.png",
+        "status": {
+            "HP": "95",
+            "攻撃": "75",
+            "防御": "80",
+            "特攻": "100",
+            "特防": "110",
+            "素早": "30",
+            "合計": "490"
+        }
+    },
+    "カラナクシ": {
+        "number": "No.327",
+        "name": "カラナクシ",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/422.png",
+        "status": {
+            "HP": "76",
+            "攻撃": "48",
+            "防御": "48",
+            "特攻": "57",
+            "特防": "62",
+            "素早": "34",
+            "合計": "325"
+        }
+    },
+    "トリトドン": {
+        "number": "No.328",
+        "name": "トリトドン",
+        "type": {
+            "type1": 3,
+            "type2": 9
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/423.png",
+        "status": {
+            "HP": "111",
+            "攻撃": "83",
+            "防御": "68",
+            "特攻": "92",
+            "特防": "82",
+            "素早": "39",
+            "合計": "475"
+        }
+    },
+    "シェルダー": {
+        "number": "No.329",
+        "name": "シェルダー",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/42.png",
+        "status": {
+            "HP": "30",
+            "攻撃": "65",
+            "防御": "100",
+            "特攻": "45",
+            "特防": "20",
+            "素早": "40",
+            "合計": "300"
+        }
+    },
+    "パルシェン": {
+        "number": "No.330",
+        "name": "パルシェン",
+        "type": {
+            "type1": 3,
+            "type2": 6
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/43.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "95",
+            "防御": "180",
+            "特攻": "85",
+            "特防": "45",
+            "素早": "70",
+            "合計": "525"
+        }
+    },
+    "ハリーセン": {
+        "number": "No.331",
+        "name": "ハリーセン",
+        "type": {
+            "type1": 3,
+            "type2": 8
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/371.png",
+        "status": {
+            "HP": "65",
+            "攻撃": "95",
+            "防御": "85",
+            "特攻": "55",
+            "特防": "55",
+            "素早": "85",
+            "合計": "440"
+        }
+    },
+    "ラブカス": {
+        "number": "No.332",
+        "name": "ラブカス",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/372.png",
+        "status": {
+            "HP": "43",
+            "攻撃": "30",
+            "防御": "55",
+            "特攻": "40",
+            "特防": "65",
+            "素早": "97",
+            "合計": "330"
+        }
+    },
+    "ケイコウオ": {
+        "number": "No.333",
+        "name": "ケイコウオ",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/189.png",
+        "status": {
+            "HP": "49",
+            "攻撃": "49",
+            "防御": "56",
+            "特攻": "49",
+            "特防": "61",
+            "素早": "66",
+            "合計": "330"
+        }
+    },
+    "ネオラント": {
+        "number": "No.334",
+        "name": "ネオラント",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/190.png",
+        "status": {
+            "HP": "69",
+            "攻撃": "69",
+            "防御": "76",
+            "特攻": "69",
+            "特防": "86",
+            "素早": "91",
+            "合計": "460"
+        }
+    },
+    "ハギギシリ": {
+        "number": "No.335",
+        "name": "ハギギシリ",
+        "type": {
+            "type1": 3,
+            "type2": 11
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/373.png",
+        "status": {
+            "HP": "68",
+            "攻撃": "105",
+            "防御": "70",
+            "特攻": "70",
+            "特防": "70",
+            "素早": "92",
+            "合計": "475"
+        }
+    },
+    "ママンボウ": {
+        "number": "No.336",
+        "name": "ママンボウ",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/374.png",
+        "status": {
+            "HP": "165",
+            "攻撃": "75",
+            "防御": "80",
+            "特攻": "40",
+            "特防": "45",
+            "素早": "65",
+            "合計": "470"
+        }
+    },
+    "クズモー": {
+        "number": "No.337",
+        "name": "クズモー",
+        "type": {
+            "type1": 8,
+            "type2": 3
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/375.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "60",
+            "防御": "60",
+            "特攻": "60",
+            "特防": "60",
+            "素早": "30",
+            "合計": "320"
+        }
+    },
+    "ドラミドロ": {
+        "number": "No.338",
+        "name": "ドラミドロ",
+        "type": {
+            "type1": 8,
+            "type2": 15
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/376.png",
+        "status": {
+            "HP": "65",
+            "攻撃": "75",
+            "防御": "90",
+            "特攻": "97",
+            "特防": "123",
+            "素早": "44",
+            "合計": "494"
+        }
+    },
+    "ウデッポウ": {
+        "number": "No.339",
+        "name": "ウデッポウ",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/130.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "53",
+            "防御": "62",
+            "特攻": "58",
+            "特防": "63",
+            "素早": "44",
+            "合計": "330"
+        }
+    },
+    "ブロスター": {
+        "number": "No.340",
+        "name": "ブロスター",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/126.png",
+        "status": {
+            "HP": "71",
+            "攻撃": "73",
+            "防御": "88",
+            "特攻": "120",
+            "特防": "89",
+            "素早": "59",
+            "合計": "500"
+        }
+    },
+    "シビシラス": {
+        "number": "No.341",
+        "name": "シビシラス",
+        "type": {
+            "type1": 4,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/195.png",
+        "status": {
+            "HP": "35",
+            "攻撃": "55",
+            "防御": "40",
+            "特攻": "45",
+            "特防": "40",
+            "素早": "60",
+            "合計": "275"
+        }
+    },
+    "シビビール": {
+        "number": "No.342",
+        "name": "シビビール",
+        "type": {
+            "type1": 4,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/196.png",
+        "status": {
+            "HP": "65",
+            "攻撃": "85",
+            "防御": "70",
+            "特攻": "75",
+            "特防": "70",
+            "素早": "40",
+            "合計": "405"
+        }
+    },
+    "シビルドン": {
+        "number": "No.343",
+        "name": "シビルドン",
+        "type": {
+            "type1": 4,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/197.png",
+        "status": {
+            "HP": "85",
+            "攻撃": "115",
+            "防御": "80",
+            "特攻": "105",
+            "特防": "80",
+            "素早": "50",
+            "合計": "515"
+        }
+    },
+    "ヒドイデ": {
+        "number": "No.344",
+        "name": "ヒドイデ",
+        "type": {
+            "type1": 8,
+            "type2": 3
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/83.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "53",
+            "防御": "62",
+            "特攻": "43",
+            "特防": "52",
+            "素早": "45",
+            "合計": "305"
+        }
+    },
+    "ドヒドイデ": {
+        "number": "No.345",
+        "name": "ドヒドイデ",
+        "type": {
+            "type1": 8,
+            "type2": 3
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/84.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "63",
+            "防御": "152",
+            "特攻": "53",
+            "特防": "142",
+            "素早": "35",
+            "合計": "495"
+        }
+    },
+    "カラミンゴ": {
+        "number": "No.346",
+        "name": "カラミンゴ",
+        "type": {
+            "type1": 10,
+            "type2": 7
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/377.png",
+        "status": {
+            "HP": "82",
+            "攻撃": "115",
+            "防御": "74",
+            "特攻": "75",
+            "特防": "64",
+            "素早": "90",
+            "合計": "500"
+        }
+    },
+    "ミニリュウ": {
+        "number": "No.347",
+        "name": "ミニリュウ",
+        "type": {
+            "type1": 15,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/142.png",
+        "status": {
+            "HP": "41",
+            "攻撃": "64",
+            "防御": "45",
+            "特攻": "50",
+            "特防": "50",
+            "素早": "50",
+            "合計": "300"
+        }
+    },
+    "ハクリュー": {
+        "number": "No.348",
+        "name": "ハクリュー",
+        "type": {
+            "type1": 15,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/143.png",
+        "status": {
+            "HP": "61",
+            "攻撃": "84",
+            "防御": "65",
+            "特攻": "70",
+            "特防": "70",
+            "素早": "70",
+            "合計": "420"
+        }
+    },
+    "カイリュー": {
+        "number": "No.349",
+        "name": "カイリュー",
+        "type": {
+            "type1": 15,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/144.png",
+        "status": {
+            "HP": "91",
+            "攻撃": "134",
+            "防御": "95",
+            "特攻": "100",
+            "特防": "100",
+            "素早": "80",
+            "合計": "600"
+        }
+    },
+    "ユキハミ": {
+        "number": "No.350",
+        "name": "ユキハミ",
+        "type": {
+            "type1": 6,
+            "type2": 12
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/92.png",
+        "status": {
+            "HP": "30",
+            "攻撃": "25",
+            "防御": "35",
+            "特攻": "45",
+            "特防": "30",
+            "素早": "20",
+            "合計": "185"
+        }
+    },
+    "モスノウ": {
+        "number": "No.351",
+        "name": "モスノウ",
+        "type": {
+            "type1": 6,
+            "type2": 12
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/93.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "65",
+            "防御": "60",
+            "特攻": "125",
+            "特防": "90",
+            "素早": "65",
+            "合計": "475"
+        }
+    },
+    "ユキカブリ": {
+        "number": "No.352",
+        "name": "ユキカブリ",
+        "type": {
+            "type1": 5,
+            "type2": 6
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/23.png",
+        "status": {
+            "HP": "60",
+            "攻撃": "62",
+            "防御": "50",
+            "特攻": "62",
+            "特防": "60",
+            "素早": "40",
+            "合計": "334"
+        }
+    },
+    "ユキノオー": {
+        "number": "No.353",
+        "name": "ユキノオー",
+        "type": {
+            "type1": 5,
+            "type2": 6
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/24.png",
+        "status": {
+            "HP": "90",
+            "攻撃": "92",
+            "防御": "75",
+            "特攻": "92",
+            "特防": "85",
+            "素早": "60",
+            "合計": "494"
+        }
+    },
+    "デリバード": {
+        "number": "No.354",
+        "name": "デリバード",
+        "type": {
+            "type1": 6,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/378.png",
+        "status": {
+            "HP": "45",
+            "攻撃": "55",
+            "防御": "45",
+            "特攻": "65",
+            "特防": "45",
+            "素早": "75",
+            "合計": "330"
+        }
+    },
+    "クマシュン": {
+        "number": "No.355",
+        "name": "クマシュン",
+        "type": {
+            "type1": 6,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/73.png",
+        "status": {
+            "HP": "55",
+            "攻撃": "70",
+            "防御": "40",
+            "特攻": "60",
+            "特防": "40",
+            "素早": "40",
+            "合計": "305"
+        }
+    },
+    "ツンベアー": {
+        "number": "No.356",
+        "name": "ツンベアー",
+        "type": {
+            "type1": 6,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/74.png",
+        "status": {
+            "HP": "95",
+            "攻撃": "130",
+            "防御": "80",
+            "特攻": "70",
+            "特防": "80",
+            "素早": "50",
+            "合計": "505"
+        }
+    },
+    "ユキワラシ": {
+        "number": "No.357",
+        "name": "ユキワラシ",
+        "type": {
+            "type1": 6,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/18.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "50",
+            "防御": "50",
+            "特攻": "50",
+            "特防": "50",
+            "素早": "50",
+            "合計": "300"
+        }
+    },
+    "オニゴーリ": {
+        "number": "No.358",
+        "name": "オニゴーリ",
+        "type": {
+            "type1": 6,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/19.png",
+        "status": {
+            "HP": "80",
+            "攻撃": "80",
+            "防御": "80",
+            "特攻": "80",
+            "特防": "80",
+            "素早": "80",
+            "合計": "480"
+        }
+    },
+    "ユキメノコ": {
+        "number": "No.359",
+        "name": "ユキメノコ",
+        "type": {
+            "type1": 6,
+            "type2": 14
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/20.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "80",
+            "防御": "70",
+            "特攻": "80",
+            "特防": "70",
+            "素早": "110",
+            "合計": "480"
+        }
+    },
+    "フリージオ": {
+        "number": "No.360",
+        "name": "フリージオ",
+        "type": {
+            "type1": 6,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/198.png",
+        "status": {
+            "HP": "80",
+            "攻撃": "50",
+            "防御": "50",
+            "特攻": "95",
+            "特防": "135",
+            "素早": "105",
+            "合計": "515"
+        }
+    },
+    "アルクジラ": {
+        "number": "No.361",
+        "name": "アルクジラ",
+        "type": {
+            "type1": 6,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/379.png",
+        "status": {
+            "HP": "108",
+            "攻撃": "68",
+            "防御": "45",
+            "特攻": "30",
+            "特防": "40",
+            "素早": "43",
+            "合計": "334"
+        }
+    },
+    "ハルクジラ": {
+        "number": "No.362",
+        "name": "ハルクジラ",
+        "type": {
+            "type1": 6,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/380.png",
+        "status": {
+            "HP": "175",
+            "攻撃": "113",
+            "防御": "65",
+            "特攻": "45",
+            "特防": "55",
+            "素早": "93",
+            "合計": "546"
+        }
+    },
+    "カチコール": {
+        "number": "No.363",
+        "name": "カチコール",
+        "type": {
+            "type1": 6,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/381.png",
+        "status": {
+            "HP": "55",
+            "攻撃": "69",
+            "防御": "85",
+            "特攻": "32",
+            "特防": "35",
+            "素早": "28",
+            "合計": "304"
+        }
+    },
+    "クレベース": {
+        "number": "No.364",
+        "name": "クレベース",
+        "type": {
+            "type1": 6,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/382.png",
+        "status": {
+            "HP": "95",
+            "攻撃": "117",
+            "防御": "184",
+            "特攻": "44",
+            "特防": "46",
+            "素早": "28",
+            "合計": "514"
+        }
+    },
+    "ワシボン": {
+        "number": "No.365",
+        "name": "ワシボン",
+        "type": {
+            "type1": 1,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/383.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "83",
+            "防御": "50",
+            "特攻": "37",
+            "特防": "50",
+            "素早": "60",
+            "合計": "350"
+        }
+    },
+    "ウォーグル": {
+        "number": "No.366",
+        "name": "ウォーグル",
+        "type": {
+            "type1": 1,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/384.png",
+        "status": {
+            "HP": "100",
+            "攻撃": "123",
+            "防御": "75",
+            "特攻": "57",
+            "特防": "75",
+            "素早": "80",
+            "合計": "510"
+        }
+    },
+    "コマタナ": {
+        "number": "No.367",
+        "name": "コマタナ",
+        "type": {
+            "type1": 16,
+            "type2": 17
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/385.png",
+        "status": {
+            "HP": "45",
+            "攻撃": "85",
+            "防御": "70",
+            "特攻": "40",
+            "特防": "40",
+            "素早": "60",
+            "合計": "340"
+        }
+    },
+    "キリキザン": {
+        "number": "No.368",
+        "name": "キリキザン",
+        "type": {
+            "type1": 16,
+            "type2": 17
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/386.png",
+        "status": {
+            "HP": "65",
+            "攻撃": "125",
+            "防御": "100",
+            "特攻": "60",
+            "特防": "70",
+            "素早": "70",
+            "合計": "490"
+        }
+    },
+    "ドドゲザン": {
+        "number": "No.369",
+        "name": "ドドゲザン",
+        "type": {
+            "type1": 16,
+            "type2": 17
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/387.png",
+        "status": {
+            "HP": "100",
+            "攻撃": "135",
+            "防御": "120",
+            "特攻": "60",
+            "特防": "85",
+            "素早": "50",
+            "合計": "550"
+        }
+    },
+    "モノズ": {
+        "number": "No.370",
+        "name": "モノズ",
+        "type": {
+            "type1": 16,
+            "type2": 15
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/102.png",
+        "status": {
+            "HP": "52",
+            "攻撃": "65",
+            "防御": "50",
+            "特攻": "45",
+            "特防": "50",
+            "素早": "38",
+            "合計": "300"
+        }
+    },
+    "ジヘッド": {
+        "number": "No.371",
+        "name": "ジヘッド",
+        "type": {
+            "type1": 16,
+            "type2": 15
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/103.png",
+        "status": {
+            "HP": "72",
+            "攻撃": "85",
+            "防御": "70",
+            "特攻": "65",
+            "特防": "70",
+            "素早": "58",
+            "合計": "420"
+        }
+    },
+    "サザンドラ": {
+        "number": "No.372",
+        "name": "サザンドラ",
+        "type": {
+            "type1": 16,
+            "type2": 15
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/104.png",
+        "status": {
+            "HP": "92",
+            "攻撃": "105",
+            "防御": "90",
+            "特攻": "125",
+            "特防": "90",
+            "素早": "98",
+            "合計": "600"
+        }
+    },
+    "ミガルーサ": {
+        "number": "No.373",
+        "name": "ミガルーサ",
+        "type": {
+            "type1": 3,
+            "type2": 11
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/388.png",
+        "status": {
+            "HP": "90",
+            "攻撃": "102",
+            "防御": "73",
+            "特攻": "78",
+            "特防": "65",
+            "素早": "70",
+            "合計": "478"
+        }
+    },
+    "ヘイラッシャ": {
+        "number": "No.374",
+        "name": "ヘイラッシャ",
+        "type": {
+            "type1": 3,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/389.png",
+        "status": {
+            "HP": "150",
+            "攻撃": "100",
+            "防御": "115",
+            "特攻": "65",
+            "特防": "65",
+            "素早": "35",
+            "合計": "530"
+        }
+    },
+    "シャリタツ": {
+        "number": "No.375",
+        "name": "シャリタツ",
+        "type": {
+            "type1": 15,
+            "type2": 3
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/443.png",
+        "status": {
+            "HP": "68",
+            "攻撃": "50",
+            "防御": "60",
+            "特攻": "120",
+            "特防": "95",
+            "素早": "82",
+            "合計": "475"
+        }
+    },
+    "イダイナキバ": {
+        "number": "No.376",
+        "name": "イダイナキバ",
+        "type": {
+            "type1": 9,
+            "type2": 7
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/391.png",
+        "status": {
+            "HP": "115",
+            "攻撃": "131",
+            "防御": "131",
+            "特攻": "53",
+            "特防": "53",
+            "素早": "87",
+            "合計": "570"
+        }
+    },
+    "サケブシッポ": {
+        "number": "No.377",
+        "name": "サケブシッポ",
+        "type": {
+            "type1": 18,
+            "type2": 11
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/392.png",
+        "status": {
+            "HP": "115",
+            "攻撃": "65",
+            "防御": "99",
+            "特攻": "65",
+            "特防": "115",
+            "素早": "111",
+            "合計": "570"
+        }
+    },
+    "アラブルタケ": {
+        "number": "No.378",
+        "name": "アラブルタケ",
+        "type": {
+            "type1": 5,
+            "type2": 16
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/393.png",
+        "status": {
+            "HP": "111",
+            "攻撃": "127",
+            "防御": "99",
+            "特攻": "79",
+            "特防": "99",
+            "素早": "55",
+            "合計": "570"
+        }
+    },
+    "ハバタクカミ": {
+        "number": "No.379",
+        "name": "ハバタクカミ",
+        "type": {
+            "type1": 14,
+            "type2": 18
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/394.png",
+        "status": {
+            "HP": "55",
+            "攻撃": "55",
+            "防御": "55",
+            "特攻": "135",
+            "特防": "135",
+            "素早": "135",
+            "合計": "570"
+        }
+    },
+    "チヲハウハネ": {
+        "number": "No.380",
+        "name": "チヲハウハネ",
+        "type": {
+            "type1": 12,
+            "type2": 7
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/395.png",
+        "status": {
+            "HP": "85",
+            "攻撃": "135",
+            "防御": "79",
+            "特攻": "85",
+            "特防": "105",
+            "素早": "81",
+            "合計": "570"
+        }
+    },
+    "スナノケガワ": {
+        "number": "No.381",
+        "name": "スナノケガワ",
+        "type": {
+            "type1": 4,
+            "type2": 9
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/396.png",
+        "status": {
+            "HP": "85",
+            "攻撃": "81",
+            "防御": "97",
+            "特攻": "121",
+            "特防": "85",
+            "素早": "101",
+            "合計": "570"
+        }
+    },
+    "テツノワダチ": {
+        "number": "No.382",
+        "name": "テツノワダチ",
+        "type": {
+            "type1": 9,
+            "type2": 17
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/397.png",
+        "status": {
+            "HP": "90",
+            "攻撃": "112",
+            "防御": "120",
+            "特攻": "72",
+            "特防": "70",
+            "素早": "106",
+            "合計": "570"
+        }
+    },
+    "テツノツツミ": {
+        "number": "No.383",
+        "name": "テツノツツミ",
+        "type": {
+            "type1": 6,
+            "type2": 3
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/398.png",
+        "status": {
+            "HP": "56",
+            "攻撃": "80",
+            "防御": "114",
+            "特攻": "124",
+            "特防": "60",
+            "素早": "136",
+            "合計": "570"
+        }
+    },
+    "テツノカイナ": {
+        "number": "No.384",
+        "name": "テツノカイナ",
+        "type": {
+            "type1": 7,
+            "type2": 4
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/399.png",
+        "status": {
+            "HP": "154",
+            "攻撃": "140",
+            "防御": "108",
+            "特攻": "50",
+            "特防": "68",
+            "素早": "50",
+            "合計": "570"
+        }
+    },
+    "テツノコウベ": {
+        "number": "No.385",
+        "name": "テツノコウベ",
+        "type": {
+            "type1": 16,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/400.png",
+        "status": {
+            "HP": "94",
+            "攻撃": "80",
+            "防御": "86",
+            "特攻": "122",
+            "特防": "80",
+            "素早": "108",
+            "合計": "570"
+        }
+    },
+    "テツノドクガ": {
+        "number": "No.386",
+        "name": "テツノドクガ",
+        "type": {
+            "type1": 2,
+            "type2": 8
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/401.png",
+        "status": {
+            "HP": "80",
+            "攻撃": "70",
+            "防御": "60",
+            "特攻": "140",
+            "特防": "110",
+            "素早": "110",
+            "合計": "570"
+        }
+    },
+    "テツノイバラ": {
+        "number": "No.387",
+        "name": "テツノイバラ",
+        "type": {
+            "type1": 13,
+            "type2": 4
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/402.png",
+        "status": {
+            "HP": "100",
+            "攻撃": "134",
+            "防御": "110",
+            "特攻": "70",
+            "特防": "84",
+            "素早": "72",
+            "合計": "570"
+        }
+    },
+    "セビエ": {
+        "number": "No.388",
+        "name": "セビエ",
+        "type": {
+            "type1": 15,
+            "type2": 6
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/403.png",
+        "status": {
+            "HP": "65",
+            "攻撃": "75",
+            "防御": "45",
+            "特攻": "35",
+            "特防": "45",
+            "素早": "55",
+            "合計": "320"
+        }
+    },
+    "セゴール": {
+        "number": "No.389",
+        "name": "セゴール",
+        "type": {
+            "type1": 15,
+            "type2": 6
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/404.png",
+        "status": {
+            "HP": "90",
+            "攻撃": "95",
+            "防御": "66",
+            "特攻": "45",
+            "特防": "65",
+            "素早": "62",
+            "合計": "423"
+        }
+    },
+    "セグレイブ": {
+        "number": "No.390",
+        "name": "セグレイブ",
+        "type": {
+            "type1": 15,
+            "type2": 6
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/405.png",
+        "status": {
+            "HP": "115",
+            "攻撃": "145",
+            "防御": "92",
+            "特攻": "75",
+            "特防": "86",
+            "素早": "87",
+            "合計": "600"
+        }
+    },
+    "コレクレー": {
+        "number": "No.391",
+        "name": "コレクレー",
+        "type": {
+            "type1": 14,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/406.png",
+        "status": {
+            "HP": "45",
+            "攻撃": "30",
+            "防御": "70",
+            "特攻": "75",
+            "特防": "70",
+            "素早": "10",
+            "合計": "300"
+        }
+    },
+    "サーフゴー": {
+        "number": "No.392",
+        "name": "サーフゴー",
+        "type": {
+            "type1": 17,
+            "type2": 14
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/407.png",
+        "status": {
+            "HP": "87",
+            "攻撃": "60",
+            "防御": "95",
+            "特攻": "133",
+            "特防": "91",
+            "素早": "84",
+            "合計": "550"
+        }
+    },
+    "チオンジェン": {
+        "number": "No.393",
+        "name": "チオンジェン",
+        "type": {
+            "type1": 16,
+            "type2": 5
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/408.png",
+        "status": {
+            "HP": "85",
+            "攻撃": "85",
+            "防御": "100",
+            "特攻": "95",
+            "特防": "135",
+            "素早": "70",
+            "合計": "570"
+        }
+    },
+    "パオジアン": {
+        "number": "No.394",
+        "name": "パオジアン",
+        "type": {
+            "type1": 16,
+            "type2": 6
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/409.png",
+        "status": {
+            "HP": "80",
+            "攻撃": "120",
+            "防御": "80",
+            "特攻": "90",
+            "特防": "65",
+            "素早": "135",
+            "合計": "570"
+        }
+    },
+    "ディンルー": {
+        "number": "No.395",
+        "name": "ディンルー",
+        "type": {
+            "type1": 16,
+            "type2": 9
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/410.png",
+        "status": {
+            "HP": "155",
+            "攻撃": "110",
+            "防御": "125",
+            "特攻": "55",
+            "特防": "80",
+            "素早": "45",
+            "合計": "570"
+        }
+    },
+    "イーユイ": {
+        "number": "No.396",
+        "name": "イーユイ",
+        "type": {
+            "type1": 16,
+            "type2": 2
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/411.png",
+        "status": {
+            "HP": "55",
+            "攻撃": "80",
+            "防御": "80",
+            "特攻": "135",
+            "特防": "120",
+            "素早": "100",
+            "合計": "570"
+        }
+    },
+    "トドロクツキ": {
+        "number": "No.397",
+        "name": "トドロクツキ",
+        "type": {
+            "type1": 15,
+            "type2": 16
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/412.png",
+        "status": {
+            "HP": "105",
+            "攻撃": "139",
+            "防御": "71",
+            "特攻": "55",
+            "特防": "101",
+            "素早": "119",
+            "合計": "590"
+        }
+    },
+    "テツノブジン": {
+        "number": "No.398",
+        "name": "テツノブジン",
+        "type": {
+            "type1": 18,
+            "type2": 7
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/413.png",
+        "status": {
+            "HP": "74",
+            "攻撃": "130",
+            "防御": "90",
+            "特攻": "120",
+            "特防": "60",
+            "素早": "116",
+            "合計": "590"
+        }
+    },
+    "コライドン": {
+        "number": "No.399",
+        "name": "コライドン",
+        "type": {
+            "type1": 7,
+            "type2": 15
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/414.png",
+        "status": {
+            "HP": "100",
+            "攻撃": "135",
+            "防御": "115",
+            "特攻": "85",
+            "特防": "100",
+            "素早": "135",
+            "合計": "670"
+        }
+    },
+    "ミライドン": {
+        "number": "No.400",
+        "name": "ミライドン",
+        "type": {
+            "type1": 4,
+            "type2": 15
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/415.png",
+        "status": {
+            "HP": "100",
+            "攻撃": "85",
+            "防御": "100",
+            "特攻": "135",
+            "特防": "115",
+            "素早": "135",
+            "合計": "670"
+        }
+    },
+    "ガラルニャース": {
+        "number": "No.401",
+        "name": "ガラルニャース",
+        "type": {
+            "type1": 17,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/426.png",
+        "status": {
+            "HP": "50",
+            "攻撃": "65",
+            "防御": "55",
+            "特攻": "40",
+            "特防": "40",
+            "素早": "40",
+            "合計": "290"
+        }
+    },
+    "ニャイキング": {
+        "number": "No.402",
+        "name": "ニャイキング",
+        "type": {
+            "type1": 17,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/427.png",
+        "status": {
+            "HP": "70",
+            "攻撃": "110",
+            "防御": "100",
+            "特攻": "50",
+            "特防": "60",
+            "素早": "50",
+            "合計": "440"
+        }
+    },
+    "ウパー": {
+        "number": "No.403",
+        "name": "ウパー",
+        "type": {
+            "type1": 3,
+            "type2": 9
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/434.png",
+        "status": {
+            "HP": "55",
+            "攻撃": "45",
+            "防御": "45",
+            "特攻": "25",
+            "特防": "25",
+            "素早": "15",
+            "合計": "210"
+        }
+    },
+    "ヌオー": {
+        "number": "No.404",
+        "name": "ヌオー",
+        "type": {
+            "type1": 3,
+            "type2": 9
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/435.png",
+        "status": {
+            "HP": "95",
+            "攻撃": "85",
+            "防御": "85",
+            "特攻": "65",
+            "特防": "65",
+            "素早": "35",
+            "合計": "430"
+        }
+    },
+    "ヒトカゲ": {
+        "number": "No.405",
+        "name": "ヒトカゲ",
+        "type": {
+            "type1": 2,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/440.png",
+        "status": {
+            "HP": "39",
+            "攻撃": "52",
+            "防御": "43",
+            "特攻": "60",
+            "特防": "50",
+            "素早": "65",
+            "合計": "309"
+        }
+    },
+    "リザード": {
+        "number": "No.406",
+        "name": "リザード",
+        "type": {
+            "type1": 2,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/441.png",
+        "status": {
+            "HP": "58",
+            "攻撃": "64",
+            "防御": "58",
+            "特攻": "80",
+            "特防": "65",
+            "素早": "80",
+            "合計": "405"
+        }
+    },
+    "リザードン": {
+        "number": "No.407",
+        "name": "リザードン",
+        "type": {
+            "type1": 2,
+            "type2": 10
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/442.png",
+        "status": {
+            "HP": "78",
+            "攻撃": "84",
+            "防御": "78",
+            "特攻": "109",
+            "特防": "85",
+            "素早": "100",
+            "合計": "534"
+        }
+    },
+    "ヒバニー": {
+        "number": "No.408",
+        "name": "ヒバニー",
+        "type": {
+            "type1": 2,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/456.png",
+        "status": {
+            "HP": "-",
+            "攻撃": "-",
+            "防御": "-",
+            "特攻": "-",
+            "特防": "-",
+            "素早": "-",
+            "合計": "-"
+        }
+    },
+    "ラビフット": {
+        "number": "No.409",
+        "name": "ラビフット",
+        "type": {
+            "type1": 2,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/457.png",
+        "status": {
+            "HP": "-",
+            "攻撃": "-",
+            "防御": "-",
+            "特攻": "-",
+            "特防": "-",
+            "素早": "-",
+            "合計": "-"
+        }
+    },
+    "エースバーン": {
+        "number": "No.410",
+        "name": "エースバーン",
+        "type": {
+            "type1": 2,
+            "type2": 0
+        },
+        "url": "https://img.altema.jp/pokemonsv/pokemon/icon/458.png",
+        "status": {
+            "HP": "-",
+            "攻撃": "-",
+            "防御": "-",
+            "特攻": "-",
+            "特防": "-",
+            "素早": "-",
+            "合計": "-"
+        }
+    }
+}
